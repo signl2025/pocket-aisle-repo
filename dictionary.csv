@@ -1,4 +1,6 @@
-﻿1,a,Alphabet,0,a.mp4,definition
+﻿*dictionary
+#id,word,category,refId,vFileName
+1,a,Alphabet,0,a.mp4,definition
 2,absent,School,0,absent.mp4,definition
 3,activities,School,0,activities.mp4,definition
 4,addition,School,0,addition.mp4,definition
