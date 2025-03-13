@@ -1,370 +1,370 @@
 id,word,category,refId,vFileName,definition
-1,a,Alphabet,0,a.mp4,definition
-2,absent,School,0,absent.mp4,definition
-3,activities,School,0,activities.mp4,definition
-4,addition,School,0,addition.mp4,definition
-5,allow,School,0,allow.mp4,definition
-6,ampalaya,Food,0,ampalaya.mp4,definition
-7,analyze,School,0,analyze.mp4,definition
-8,angry,Emotions,0,angry.mp4,definition
-9,answer,School,0,answer.mp4,definition
-10,ant,Animals,0,ant.mp4,definition
-11,April,Date and Time,0,April.mp4,definition
-12,are you alright,Greetings,0,are_you_alright.mp4,definition
-13,arts,School,0,arts.mp4,definition
-14,assignment,School,0,assignment.mp4,definition
-15,attention,School,0,attention.mp4,definition
-16,August,Date and Time,0,August.mp4,definition
-17,auntie,Family,0,auntie.mp4,definition
-18,b,Alphabet,0,b.mp4,definition
-19,baby,Family,0,baby.mp4,definition
-20,bad,Greetings,0,bad.mp4,definition
-21,banana,Food,0,banana.mp4,definition
-22,beautiful,Greetings,0,beautiful.mp4,definition
-23,beef meat,Food,0,beef_meat.mp4,definition
-24,billion,Numbers,0,billion.mp4,definition
-25,bird,Animals,0,bird.mp4,definition
-26,black,Colors,0,black.mp4,definition
-27,blue,Colors,0,blue.mp4,definition
-28,board,School,0,board.mp4,definition
-29,book,School,0,book.mp4,definition
-30,boy,Family,0,boy.mp4,definition
-31,bread,Food,0,bread.mp4,definition
-32,bridge,Places,0,bridge.mp4,definition
-33,brother,Family,0,brother.mp4,definition
-34,brown,Colors,0,brown.mp4,definition
-35,building,School,0,building.mp4,definition
-36,butter,Food,0,butter.mp4,definition
-37,c,Alphabet,0,c.mp4,definition
-38,cable,School,0,cable.mp4,definition
-39,candy,Food,0,candy.mp4,definition
-40,carabao,Animals,0,carabao.mp4,definition
-41,cat,Animals,0,cat.mp4,definition
-42,Cebu,Places,0,Cebu.mp4,definition
-43,chair,School,0,chair.mp4,definition
-44,cheese,Food,0,cheese.mp4,definition
-45,chicken meat,Food,0,chicken_meat.mp4,definition
-46,child,Family,0,child.mp4,definition
-47,children,Family,0,children.mp4,definition
-48,chocolate,Food,0,chocolate.mp4,definition
-49,church,Places,0,church.mp4,definition
-50,clap,Greetings|School,0,clap.mp4,definition
-51,class,School,0,class.mp4,definition
-52,clean,School,0,clean.mp4,definition
-53,code coding,School,0,code_coding.mp4,definition
-54,coffee,Food,0,coffee.mp4,definition
-55,colors,Colors,0,colors.mp4,definition
-56,communication,Greetings,0,communication.mp4,definition
-57,computer program,School,0,computer_program.mp4,definition
-58,congratulations,Greetings,0,congratulations.mp4,definition
-59,copy,School,0,copy.mp4,definition
-60,cousin,Family,0,cousin.mp4,definition
-61,cow,Animals,0,cow.mp4,definition
-62,cpu,School,0,cpu.mp4,definition
-63,crazy,Emotions,0,crazy.mp4,definition
-64,cry,Emotions,0,cry.mp4,definition
-65,d,Alphabet,0,d.mp4,definition
-66,dance,School,0,dance.mp4,definition
-67,daughter,Family,0,daughter.mp4,definition
-68,day,Date and Time,0,day.mp4,definition
-69,December,Date and Time,0,December.mp4,definition
-70,depressed,Emotions,0,depressed.mp4,definition
-71,divide,School,0,divide.mp4,definition
-72,dog,Animals,0,dog.mp4,definition
-73,done finish,School,0,done_finish.mp4,definition
-74,dont know,School,0,dont_know.mp4,definition
-75,dont understand,School,0,dont_understand.mp4,definition
-76,doubt,Emotions,0,doubt.mp4,definition
-77,duck,Animals,0,duck.mp4,definition
-78,e,Alphabet,0,e.mp4,definition
-79,early,School,0,early.mp4,definition
-80,east,Places,0,east.mp4,definition
-81,eat food,Food,0,eat_food.mp4,definition
-82,eight,Numbers,0,eight.mp4,definition
-83,eighteen,Numbers,0,eighteen.mp4,definition
-84,eighty,Numbers,0,eighty.mp4,definition
-85,eleven,Numbers,0,eleven.mp4,definition
-86,embarrassed,Emotions,0,embarrassed.mp4,definition
-87,english,School,0,english.mp4,definition
-88,equal,School,0,equal.mp4,definition
-89,Erase,School,0,Erase.mp4,definition
-90,excited,Emotions,0,excited.mp4,definition
-91,explain,School,0,explain.mp4,definition
-92,f,Alphabet,0,f.mp4,definition
-93,FALSE,School,0,false.mp4,definition
-94,family,Family,0,family.mp4,definition
-95,fast quick,School,0,fast_quick.mp4,definition
-96,father,Family,0,father.mp4,definition
-97,fear,Emotions,0,fear.mp4,definition
-98,February,Date and Time,0,February.mp4,definition
-99,fifteen,Numbers,0,fifteen.mp4,definition
-100,fifty,Numbers,0,fifty.mp4,definition
-101,filipino,School,0,filipino.mp4,definition
-102,five,Numbers,0,five.mp4,definition
-103,forget,School,0,forget.mp4,definition
-104,forty,Numbers,0,forty.mp4,definition
-105,four,Numbers,0,four.mp4,definition
-106,fourteen,Numbers,0,fourteen.mp4,definition
-107,fraction,School,0,fraction.mp4,definition
-108,Friday,Date and Time,0,Friday.mp4,definition
-109,friends,Family,0,friends.mp4,definition
-110,fruit,Food,0,fruit.mp4,definition
-111,g,Alphabet,0,g.mp4,definition
-112,Gaisano,Places,0,Gaisano.mp4,definition
-113,game,School,0,game.mp4,definition
-114,get,School,0,get.mp4,definition
-115,girl,Family,0,girl.mp4,definition
-116,good,Greetings,0,good.mp4,definition
-117,good afternoon,Greetings,0,good_afternoon.mp4,definition
-118,good bye,Greetings,0,good_bye.mp4,definition
-119,good evening,Greetings,0,good_evening.mp4,definition
-120,good morning,Greetings,0,good_morning.mp4,definition
-121,good night,Greetings,0,good_night.mp4,definition
-122,good noon,Greetings,0,good_noon.mp4,definition
-123,grandfather,Family,0,grandfather.mp4,definition
-124,grandmother,Family,0,grandmother.mp4,definition
-125,gray,Colors,0,gray.mp4,definition
-126,greater than,School,0,greater_than.mp4,definition
-127,green,Colors,0,green.mp4,definition
-128,guess the greetings,Greetings,0,guess_the_greetings.mp4,definition
-129,h,Alphabet,0,h.mp4,definition
-130,hamburger,Food,0,hamburger.mp4,definition
-131,handsome,Greetings,0,handsome.mp4,definition
-132,happy,Emotions,0,happy.mp4,definition
-133,happy anniversary,Greetings,0,happy_anniversary.mp4,definition
-134,happy birthday,Greetings,0,happy_birthday.mp4,definition
-135,happy father's day,Greetings,0,happy_fathers_day.mp4,definition
-136,happy mothers day,Greetings,0,happy_mothers_day.mp4,definition
-137,happy valentines,Greetings,0,happy_valentines.mp4,definition
-138,hen,Animals,0,hen.mp4,definition
-139,hi or hello,Greetings,0,hi_or_hello.mp4,definition
-140,home,Family,0,home.mp4,definition
-141,horse,Animals,0,horse.mp4,definition
-142,hospital,Places,0,hospital.mp4,definition
-143,hotdog,Food,0,hotdog.mp4,definition
-144,hour,Date and Time,0,hour.mp4,definition
-145,house,Places,0,house.mp4,definition
-146,how,Greetings,0,how.mp4,definition
-147,how are you,Greetings,0,how_are_you.mp4,definition
-148,hundred,Numbers,0,hundred.mp4,definition
-149,hungry,Emotions,0,hungry.mp4,definition
-150,i,Alphabet,0,i.mp4,definition
-151,ice cream,Food,0,ice_cream.mp4,definition
-152,im fine,Greetings,0,im_fine.mp4,definition
-153,Im sick,Greetings,0,Im_sick.mp4,definition
-154,input,School,0,input.mp4,definition
-155,intelligent bright,School,0,intelligent_bright.mp4,definition
-156,internet,School,0,internet.mp4,definition
-157,I love you,Greetings,0,I_love_you.mp4,definition
-158,I miss you,Greetings,0,I_miss_you.mp4,definition
-159,j,Alphabet,0,j.mp4,definition
-160,January,Date and Time,0,January.mp4,definition
-161,jealous,Emotions,0,jealous.mp4,definition
-162,Jollibee,Places,0,Jollibee.mp4,definition
-163,juice,Food,0,juice.mp4,definition
-164,July,Date and Time,0,July.mp4,definition
-165,June,Date and Time,0,June.mp4,definition
-166,k,Alphabet,0,k.mp4,definition
-167,keyboard,School,0,keyboard.mp4,definition
-168,KFC,Places,0,KFC.mp4,definition
-169,L,Alphabet,0,L.mp4,definition
-170,laptop,School,0,laptop.mp4,definition
-171,late,School,0,late.mp4,definition
-172,learn,School,0,learn.mp4,definition
-173,lesson,School,0,lesson.mp4,definition
-174,less than,School,0,less_than.mp4,definition
-175,lie,Emotions,0,lie.mp4,definition
-176,listen,School,0,listen.mp4,definition
-177,love,Emotions,0,love.mp4,definition
-178,m,Alphabet,0,m.mp4,definition
-179,mango,Food,0,mango.mp4,definition
-180,Manila,Places,0,Manila.mp4,definition
-181,March,Date and Time,0,March.mp4,definition
-182,market,Places,0,market.mp4,definition
-183,Math,School,0,Math.mp4,definition
-184,May,Date and Time,0,May.mp4,definition
-185,Mcdo,Places,0,Mcdo.mp4,definition
-186,memorize,School,0,memorize.mp4,definition
-187,merry christmas,Greetings,0,merry_christmas.mp4,definition
-188,milk,Food,0,milk.mp4,definition
-189,million,Numbers,0,million.mp4,definition
-190,minus,School,0,minus.mp4,definition
-191,minutes,Date and Time,0,minutes.mp4,definition
-192,Monday,Date and Time,0,Monday.mp4,definition
-193,monitor,School,0,monitor.mp4,definition
-194,month,Date and Time,0,month.mp4,definition
-195,mother,Family,0,mother.mp4,definition
-196,multiply,School,0,multiply.mp4,definition
-197,music sing,School,0,music_sing.mp4,definition
-198,n,Alphabet,0,n.mp4,definition
-199,name,Family,0,name.mp4,definition
-200,need,Emotions,0,need.mp4,definition
-201,nephew,Family,0,nephew.mp4,definition
-202,network networking,School,0,network_networking.mp4,definition
-203,nice to meet you,Greetings,0,nice_to_meet_you.mp4,definition
-204,niece,Family,0,niece.mp4,definition
-205,nine,Numbers,0,nine.mp4,definition
-206,nineteen,Numbers,0,nineteen.mp4,definition
-207,ninety,Numbers,0,ninety.mp4,definition
-208,no,Greetings,0,no.mp4,definition
-209,north,Places,0,north.mp4,definition
-210,notebook,School,0,notebook.mp4,definition
-211,November,Date and Time,0,November.mp4,definition
-212,number,Numbers|School,0,number.mp4,definition
-213,o,Alphabet,0,o.mp4,definition
-214,obey,Family,0,obey.mp4,definition
-215,October,Date and Time,0,October.mp4,definition
-216,off,School,0,off.mp4,definition
-217,old age,Family,0,old_age.mp4,definition
-218,on,School,0,on.mp4,definition
-219,one,Numbers,0,one.mp4,definition
-220,one half,School,0,one_half.mp4,definition
-221,one whole,School,0,one_whole.mp4,definition
-222,orange,Colors,0,orange.mp4,definition
-223,output,School,0,output.mp4,definition
-224,p,Alphabet,0,p.mp4,definition
-225,pancit,Food,0,pancit.mp4,definition
-226,parents,Family,0,parents.mp4,definition
-227,party,School,0,party.mp4,definition
-228,pass,School,0,pass.mp4,definition
-229,PE,School,0,PE.mp4,definition
-230,Philippines,Places,0,Philippines.mp4,definition
-231,Philosophy,School,0,Philosophy.mp4,definition
-232,photocopy,School,0,photocopy.mp4,definition
-233,physics,School,0,physics.mp4,definition
-234,pie,Food,0,pie.mp4,definition
-235,pineapple,Food,0,pineapple.mp4,definition
-236,pink,Colors,0,pink.mp4,definition
-237,pity,Emotions,0,pity.mp4,definition
-238,play,School,0,play.mp4,definition
-239,pork meat,Food,0,pork_meat.mp4,definition
-240,president,School,0,president.mp4,definition
-241,principal,School,0,principal.mp4,definition
-242,problem,School,0,problem.mp4,definition
-243,promise,Greetings,0,promise.mp4,definition
-244,purple,Colors,0,purple.mp4,definition
-245,q,Alphabet,0,q.mp4,definition
-246,questions,School,0,questions.mp4,definition
-247,quiet,Emotions,0,quiet.mp4,definition
-248,r,Alphabet,0,r.mp4,definition
-249,rainbow,Colors,0,rainbow.mp4,definition
-250,read,School,0,read.mp4,definition
-251,red,Colors,0,red.mp4,definition
-252,relaxed,Emotions,0,relaxed.mp4,definition
-253,remember,School,0,remember.mp4,definition
-254,research,School,0,research.mp4,definition
-255,right,School,0,right.mp4,definition
-256,Robinsons,Places,0,Robinsons.mp4,definition
-257,run,School,0,run.mp4,definition
-258,s,Alphabet,0,s.mp4,definition
-259,sad,Emotions,0,sad.mp4,definition
-260,Saturday,Date and Time,0,Saturday.mp4,definition
-261,scared,Emotions,0,scared.mp4,definition
-262,school,School,0,school.mp4,definition
-263,Science,School,0,Science.mp4,definition
-264,seconds,Date and Time,0,seconds.mp4,definition
-265,see you again,Greetings,0,see_you_again.mp4,definition
-266,see you later,Greetings,0,see_you_later.mp4,definition
-267,see you tomorrow,Greetings,0,see_you_tomorrow.mp4,definition
-268,September,Date and Time,0,September.mp4,definition
-269,serious,Emotions,0,serious.mp4,definition
-270,seven,Numbers,0,seven.mp4,definition
-271,seventeen,Numbers,0,seventeen.mp4,definition
-272,seventy,Numbers,0,seventy.mp4,definition
-273,shy,Emotions,0,shy.mp4,definition
-274,sister,Family,0,sister.mp4,definition
-275,sit down,School,0,sit_down.mp4,definition
-276,six,Numbers,0,six.mp4,definition
-277,sixteen,Numbers,0,sixteen.mp4,definition
-278,sixty,Numbers,0,sixty.mp4,definition
-279,sleep,Emotions,0,sleep.mp4,definition
-280,SM,Places,0,SM.mp4,definition
-281,soda,Food,0,soda.mp4,definition
-282,solve,School,0,solve.mp4,definition
-283,south,Places,0,south.mp4,definition
-284,spaghetti,Food,0,spaghetti.mp4,definition
-285,spider,Animals,0,spider.mp4,definition
-286,sports,School,0,sports.mp4,definition
-287,stand up,School,0,stand_up.mp4,definition
-288,start,School,0,start.mp4,definition
-289,statistics,School,0,statistics.mp4,definition
-290,stop,School,0,stop.mp4,definition
-291,structure,School,0,structure.mp4,definition
-292,study,School,0,study.mp4,definition
-293,subject,School,0,subject.mp4,definition
-294,subtraction,School,0,subtraction.mp4,definition
-295,sugar,Food,0,sugar.mp4,definition
-296,Sunday,Date and Time,0,Sunday.mp4,definition
-297,sweep,School,0,sweep.mp4,definition
-298,symbol,School,0,symbol.mp4,definition
-299,t,Alphabet,0,t.mp4,definition
-300,table,School,0,table.mp4,definition
-301,Tacloban,Places,0,Tacloban.mp4,definition
-302,talk,Greetings,0,talk.mp4,definition
-303,talkative,Greetings,0,talkative.mp4,definition
-304,teach,School,0,teach.mp4,definition
-305,teacher,School,0,teacher.mp4,definition
-306,technology,School,0,technology.mp4,definition
-307,ten,School,0,ten.mp4,definition
-308,test,School,0,test.mp4,definition
-309,thank you,Greetings,0,thank_you.mp4,definition
-310,thirsty,Emotions,0,thirsty.mp4,definition
-311,thirteen,Numbers,0,thirteen.mp4,definition
-312,thirty,Numbers,0,thirty.mp4,definition
-313,thousand,Numbers,0,thousand.mp4,definition
-314,three,Numbers,0,three.mp4,definition
-315,Thursday,Date and Time,0,Thursday.mp4,definition
-316,time,Date and Time,0,time.mp4,definition
-317,tired,Emotions,0,tired.mp4,definition
-318,today,Date and Time,0,today.mp4,definition
-319,trillion,Numbers,0,trillion.mp4,definition
-320,true truth,School,0,true_truth.mp4,definition
-321,Tuesday,Date and Time,0,Tuesday.mp4,definition
-322,twelve,Numbers,0,twelve.mp4,definition
-323,twenty,Numbers,0,twenty.mp4,definition
-324,twenty eight,Numbers,0,twenty_eight.mp4,definition
-325,twenty five,Numbers,0,twenty_five.mp4,definition
-326,twenty four,Numbers,0,twenty_four.mp4,definition
-327,twenty nine,Numbers,0,twenty_nine.mp4,definition
-328,twenty one,Numbers,0,twenty_one.mp4,definition
-329,twenty seven,Numbers,0,twenty_seven.mp4,definition
-330,twenty six,Numbers,0,twenty_six.mp4,definition
-331,twenty three,Numbers,0,twenty_three.mp4,definition
-332,twenty two,Numbers,0,twenty_two.mp4,definition
-333,two,Numbers,0,two.mp4,definition
-334,u,Alphabet,0,u.mp4,definition
-335,uncle,Family,0,uncle.mp4,definition
-336,understand,School,0,understand.mp4,definition
-337,v,Alphabet,0,v.mp4,definition
-338,values,School,0,values.mp4,definition
-339,vegetable,Food,0,vegetable.mp4,definition
-340,very good,Greetings,0,very_good.mp4,definition
-341,w,Alphabet,0,w.mp4,definition
-342,walk,Greetings,0,walk.mp4,definition
-343,want,Emotions,0,want.mp4,definition
-344,water,Food,0,water.mp4,definition
-345,watermelon,Food,0,watermelon.mp4,definition
-346,Wednesday,Date and Time,0,Wednesday.mp4,definition
-347,week,Date and Time,0,week.mp4,definition
-348,weekday,Date and Time,0,weekday.mp4,definition
-349,weekend,Date and Time,0,weekend.mp4,definition
-350,welcome,Greetings,0,welcome.mp4,definition
-351,west,Places,0,west.mp4,definition
-352,what,Greetings,0,what.mp4,definition
-353,what is your name,Greetings,0,what_is_your_name.mp4,definition
-354,when,Greetings,0,when.mp4,definition
-355,where,Greetings,0,where.mp4,definition
-356,which,Greetings,0,which.mp4,definition
-357,white,Colors,0,white.mp4,definition
-358,who,Greetings,0,who.mp4,definition
-359,why,Greetings,0,why.mp4,definition
-360,wow,Greetings,0,wow.mp4,definition
-361,write,School,0,write.mp4,definition
-362,wrong,School,0,wrong.mp4,definition
-363,x,Alphabet,0,x.mp4,definition
-364,y,Alphabet,0,y.mp4,definition
-365,year,Date and Time,0,year.mp4,definition
-366,yellow,Colors,0,yellow.mp4,definition
-367,yes,Greetings,0,yes.mp4,definition
-368,z,Alphabet,0,z.mp4,definition
-369,zero,Numbers,0,zero.mp4,definition
+1,a,Alphabet,0,a.mp4,test definition
+2,absent,School,0,absent.mp4,test definition
+3,activities,School,0,activities.mp4,test definition
+4,addition,School,0,addition.mp4,test definition
+5,allow,School,0,allow.mp4,test definition
+6,ampalaya,Food,0,ampalaya.mp4,test definition
+7,analyze,School,0,analyze.mp4,test definition
+8,angry,Emotions,0,angry.mp4,test definition
+9,answer,School,0,answer.mp4,test definition
+10,ant,Animals,0,ant.mp4,test definition
+11,April,Date and Time,0,April.mp4,test definition
+12,are you alright,Greetings,0,are_you_alright.mp4,test definition
+13,arts,School,0,arts.mp4,test definition
+14,assignment,School,0,assignment.mp4,test definition
+15,attention,School,0,attention.mp4,test definition
+16,August,Date and Time,0,August.mp4,test definition
+17,auntie,Family,0,auntie.mp4,test definition
+18,b,Alphabet,0,b.mp4,test definition
+19,baby,Family,0,baby.mp4,test definition
+20,bad,Greetings,0,bad.mp4,test definition
+21,banana,Food,0,banana.mp4,test definition
+22,beautiful,Greetings,0,beautiful.mp4,test definition
+23,beef meat,Food,0,beef_meat.mp4,test definition
+24,billion,Numbers,0,billion.mp4,test definition
+25,bird,Animals,0,bird.mp4,test definition
+26,black,Colors,0,black.mp4,test definition
+27,blue,Colors,0,blue.mp4,test definition
+28,board,School,0,board.mp4,test definition
+29,book,School,0,book.mp4,test definition
+30,boy,Family,0,boy.mp4,test definition
+31,bread,Food,0,bread.mp4,test definition
+32,bridge,Places,0,bridge.mp4,test definition
+33,brother,Family,0,brother.mp4,test definition
+34,brown,Colors,0,brown.mp4,test definition
+35,building,School,0,building.mp4,test definition
+36,butter,Food,0,butter.mp4,test definition
+37,c,Alphabet,0,c.mp4,test definition
+38,cable,School,0,cable.mp4,test definition
+39,candy,Food,0,candy.mp4,test definition
+40,carabao,Animals,0,carabao.mp4,test definition
+41,cat,Animals,0,cat.mp4,test definition
+42,Cebu,Places,0,Cebu.mp4,test definition
+43,chair,School,0,chair.mp4,test definition
+44,cheese,Food,0,cheese.mp4,test definition
+45,chicken meat,Food,0,chicken_meat.mp4,test definition
+46,child,Family,0,child.mp4,test definition
+47,children,Family,0,children.mp4,test definition
+48,chocolate,Food,0,chocolate.mp4,test definition
+49,church,Places,0,church.mp4,test definition
+50,clap,Greetings|School,0,clap.mp4,test definition
+51,class,School,0,class.mp4,test definition
+52,clean,School,0,clean.mp4,test definition
+53,code coding,School,0,code_coding.mp4,test definition
+54,coffee,Food,0,coffee.mp4,test definition
+55,colors,Colors,0,colors.mp4,test definition
+56,communication,Greetings,0,communication.mp4,test definition
+57,computer program,School,0,computer_program.mp4,test definition
+58,congratulations,Greetings,0,congratulations.mp4,test definition
+59,copy,School,0,copy.mp4,test definition
+60,cousin,Family,0,cousin.mp4,test definition
+61,cow,Animals,0,cow.mp4,test definition
+62,cpu,School,0,cpu.mp4,test definition
+63,crazy,Emotions,0,crazy.mp4,test definition
+64,cry,Emotions,0,cry.mp4,test definition
+65,d,Alphabet,0,d.mp4,test definition
+66,dance,School,0,dance.mp4,test definition
+67,daughter,Family,0,daughter.mp4,test definition
+68,day,Date and Time,0,day.mp4,test definition
+69,December,Date and Time,0,December.mp4,test definition
+70,depressed,Emotions,0,depressed.mp4,test definition
+71,divide,School,0,divide.mp4,test definition
+72,dog,Animals,0,dog.mp4,test definition
+73,done finish,School,0,done_finish.mp4,test definition
+74,dont know,School,0,dont_know.mp4,test definition
+75,dont understand,School,0,dont_understand.mp4,test definition
+76,doubt,Emotions,0,doubt.mp4,test definition
+77,duck,Animals,0,duck.mp4,test definition
+78,e,Alphabet,0,e.mp4,test definition
+79,early,School,0,early.mp4,test definition
+80,east,Places,0,east.mp4,test definition
+81,eat food,Food,0,eat_food.mp4,test definition
+82,eight,Numbers,0,eight.mp4,test definition
+83,eighteen,Numbers,0,eighteen.mp4,test definition
+84,eighty,Numbers,0,eighty.mp4,test definition
+85,eleven,Numbers,0,eleven.mp4,test definition
+86,embarrassed,Emotions,0,embarrassed.mp4,test definition
+87,english,School,0,english.mp4,test definition
+88,equal,School,0,equal.mp4,test definition
+89,Erase,School,0,Erase.mp4,test definition
+90,excited,Emotions,0,excited.mp4,test definition
+91,explain,School,0,explain.mp4,test definition
+92,f,Alphabet,0,f.mp4,test definition
+93,FALSE,School,0,false.mp4,test definition
+94,family,Family,0,family.mp4,test definition
+95,fast quick,School,0,fast_quick.mp4,test definition
+96,father,Family,0,father.mp4,test definition
+97,fear,Emotions,0,fear.mp4,test definition
+98,February,Date and Time,0,February.mp4,test definition
+99,fifteen,Numbers,0,fifteen.mp4,test definition
+100,fifty,Numbers,0,fifty.mp4,test definition
+101,filipino,School,0,filipino.mp4,test definition
+102,five,Numbers,0,five.mp4,test definition
+103,forget,School,0,forget.mp4,test definition
+104,forty,Numbers,0,forty.mp4,test definition
+105,four,Numbers,0,four.mp4,test definition
+106,fourteen,Numbers,0,fourteen.mp4,test definition
+107,fraction,School,0,fraction.mp4,test definition
+108,Friday,Date and Time,0,Friday.mp4,test definition
+109,friends,Family,0,friends.mp4,test definition
+110,fruit,Food,0,fruit.mp4,test definition
+111,g,Alphabet,0,g.mp4,test definition
+112,Gaisano,Places,0,Gaisano.mp4,test definition
+113,game,School,0,game.mp4,test definition
+114,get,School,0,get.mp4,test definition
+115,girl,Family,0,girl.mp4,test definition
+116,good,Greetings,0,good.mp4,test definition
+117,good afternoon,Greetings,0,good_afternoon.mp4,test definition
+118,good bye,Greetings,0,good_bye.mp4,test definition
+119,good evening,Greetings,0,good_evening.mp4,test definition
+120,good morning,Greetings,0,good_morning.mp4,test definition
+121,good night,Greetings,0,good_night.mp4,test definition
+122,good noon,Greetings,0,good_noon.mp4,test definition
+123,grandfather,Family,0,grandfather.mp4,test definition
+124,grandmother,Family,0,grandmother.mp4,test definition
+125,gray,Colors,0,gray.mp4,test definition
+126,greater than,School,0,greater_than.mp4,test definition
+127,green,Colors,0,green.mp4,test definition
+128,guess the greetings,Greetings,0,guess_the_greetings.mp4,test definition
+129,h,Alphabet,0,h.mp4,test definition
+130,hamburger,Food,0,hamburger.mp4,test definition
+131,handsome,Greetings,0,handsome.mp4,test definition
+132,happy,Emotions,0,happy.mp4,test definition
+133,happy anniversary,Greetings,0,happy_anniversary.mp4,test definition
+134,happy birthday,Greetings,0,happy_birthday.mp4,test definition
+135,happy father's day,Greetings,0,happy_fathers_day.mp4,test definition
+136,happy mothers day,Greetings,0,happy_mothers_day.mp4,test definition
+137,happy valentines,Greetings,0,happy_valentines.mp4,test definition
+138,hen,Animals,0,hen.mp4,test definition
+139,hi or hello,Greetings,0,hi_or_hello.mp4,test definition
+140,home,Family,0,home.mp4,test definition
+141,horse,Animals,0,horse.mp4,test definition
+142,hospital,Places,0,hospital.mp4,test definition
+143,hotdog,Food,0,hotdog.mp4,test definition
+144,hour,Date and Time,0,hour.mp4,test definition
+145,house,Places,0,house.mp4,test definition
+146,how,Greetings,0,how.mp4,test definition
+147,how are you,Greetings,0,how_are_you.mp4,test definition
+148,hundred,Numbers,0,hundred.mp4,test definition
+149,hungry,Emotions,0,hungry.mp4,test definition
+150,i,Alphabet,0,i.mp4,test definition
+151,ice cream,Food,0,ice_cream.mp4,test definition
+152,im fine,Greetings,0,im_fine.mp4,test definition
+153,Im sick,Greetings,0,Im_sick.mp4,test definition
+154,input,School,0,input.mp4,test definition
+155,intelligent bright,School,0,intelligent_bright.mp4,test definition
+156,internet,School,0,internet.mp4,test definition
+157,I love you,Greetings,0,I_love_you.mp4,test definition
+158,I miss you,Greetings,0,I_miss_you.mp4,test definition
+159,j,Alphabet,0,j.mp4,test definition
+160,January,Date and Time,0,January.mp4,test definition
+161,jealous,Emotions,0,jealous.mp4,test definition
+162,Jollibee,Places,0,Jollibee.mp4,test definition
+163,juice,Food,0,juice.mp4,test definition
+164,July,Date and Time,0,July.mp4,test definition
+165,June,Date and Time,0,June.mp4,test definition
+166,k,Alphabet,0,k.mp4,test definition
+167,keyboard,School,0,keyboard.mp4,test definition
+168,KFC,Places,0,KFC.mp4,test definition
+169,L,Alphabet,0,L.mp4,test definition
+170,laptop,School,0,laptop.mp4,test definition
+171,late,School,0,late.mp4,test definition
+172,learn,School,0,learn.mp4,test definition
+173,lesson,School,0,lesson.mp4,test definition
+174,less than,School,0,less_than.mp4,test definition
+175,lie,Emotions,0,lie.mp4,test definition
+176,listen,School,0,listen.mp4,test definition
+177,love,Emotions,0,love.mp4,test definition
+178,m,Alphabet,0,m.mp4,test definition
+179,mango,Food,0,mango.mp4,test definition
+180,Manila,Places,0,Manila.mp4,test definition
+181,March,Date and Time,0,March.mp4,test definition
+182,market,Places,0,market.mp4,test definition
+183,Math,School,0,Math.mp4,test definition
+184,May,Date and Time,0,May.mp4,test definition
+185,Mcdo,Places,0,Mcdo.mp4,test definition
+186,memorize,School,0,memorize.mp4,test definition
+187,merry christmas,Greetings,0,merry_christmas.mp4,test definition
+188,milk,Food,0,milk.mp4,test definition
+189,million,Numbers,0,million.mp4,test definition
+190,minus,School,0,minus.mp4,test definition
+191,minutes,Date and Time,0,minutes.mp4,test definition
+192,Monday,Date and Time,0,Monday.mp4,test definition
+193,monitor,School,0,monitor.mp4,test definition
+194,month,Date and Time,0,month.mp4,test definition
+195,mother,Family,0,mother.mp4,test definition
+196,multiply,School,0,multiply.mp4,test definition
+197,music sing,School,0,music_sing.mp4,test definition
+198,n,Alphabet,0,n.mp4,test definition
+199,name,Family,0,name.mp4,test definition
+200,need,Emotions,0,need.mp4,test definition
+201,nephew,Family,0,nephew.mp4,test definition
+202,network networking,School,0,network_networking.mp4,test definition
+203,nice to meet you,Greetings,0,nice_to_meet_you.mp4,test definition
+204,niece,Family,0,niece.mp4,test definition
+205,nine,Numbers,0,nine.mp4,test definition
+206,nineteen,Numbers,0,nineteen.mp4,test definition
+207,ninety,Numbers,0,ninety.mp4,test definition
+208,no,Greetings,0,no.mp4,test definition
+209,north,Places,0,north.mp4,test definition
+210,notebook,School,0,notebook.mp4,test definition
+211,November,Date and Time,0,November.mp4,test definition
+212,number,Numbers|School,0,number.mp4,test definition
+213,o,Alphabet,0,o.mp4,test definition
+214,obey,Family,0,obey.mp4,test definition
+215,October,Date and Time,0,October.mp4,test definition
+216,off,School,0,off.mp4,test definition
+217,old age,Family,0,old_age.mp4,test definition
+218,on,School,0,on.mp4,test definition
+219,one,Numbers,0,one.mp4,test definition
+220,one half,School,0,one_half.mp4,test definition
+221,one whole,School,0,one_whole.mp4,test definition
+222,orange,Colors,0,orange.mp4,test definition
+223,output,School,0,output.mp4,test definition
+224,p,Alphabet,0,p.mp4,test definition
+225,pancit,Food,0,pancit.mp4,test definition
+226,parents,Family,0,parents.mp4,test definition
+227,party,School,0,party.mp4,test definition
+228,pass,School,0,pass.mp4,test definition
+229,PE,School,0,PE.mp4,test definition
+230,Philippines,Places,0,Philippines.mp4,test definition
+231,Philosophy,School,0,Philosophy.mp4,test definition
+232,photocopy,School,0,photocopy.mp4,test definition
+233,physics,School,0,physics.mp4,test definition
+234,pie,Food,0,pie.mp4,test definition
+235,pineapple,Food,0,pineapple.mp4,test definition
+236,pink,Colors,0,pink.mp4,test definition
+237,pity,Emotions,0,pity.mp4,test definition
+238,play,School,0,play.mp4,test definition
+239,pork meat,Food,0,pork_meat.mp4,test definition
+240,president,School,0,president.mp4,test definition
+241,principal,School,0,principal.mp4,test definition
+242,problem,School,0,problem.mp4,test definition
+243,promise,Greetings,0,promise.mp4,test definition
+244,purple,Colors,0,purple.mp4,test definition
+245,q,Alphabet,0,q.mp4,test definition
+246,questions,School,0,questions.mp4,test definition
+247,quiet,Emotions,0,quiet.mp4,test definition
+248,r,Alphabet,0,r.mp4,test definition
+249,rainbow,Colors,0,rainbow.mp4,test definition
+250,read,School,0,read.mp4,test definition
+251,red,Colors,0,red.mp4,test definition
+252,relaxed,Emotions,0,relaxed.mp4,test definition
+253,remember,School,0,remember.mp4,test definition
+254,research,School,0,research.mp4,test definition
+255,right,School,0,right.mp4,test definition
+256,Robinsons,Places,0,Robinsons.mp4,test definition
+257,run,School,0,run.mp4,test definition
+258,s,Alphabet,0,s.mp4,test definition
+259,sad,Emotions,0,sad.mp4,test definition
+260,Saturday,Date and Time,0,Saturday.mp4,test definition
+261,scared,Emotions,0,scared.mp4,test definition
+262,school,School,0,school.mp4,test definition
+263,Science,School,0,Science.mp4,test definition
+264,seconds,Date and Time,0,seconds.mp4,test definition
+265,see you again,Greetings,0,see_you_again.mp4,test definition
+266,see you later,Greetings,0,see_you_later.mp4,test definition
+267,see you tomorrow,Greetings,0,see_you_tomorrow.mp4,test definition
+268,September,Date and Time,0,September.mp4,test definition
+269,serious,Emotions,0,serious.mp4,test definition
+270,seven,Numbers,0,seven.mp4,test definition
+271,seventeen,Numbers,0,seventeen.mp4,test definition
+272,seventy,Numbers,0,seventy.mp4,test definition
+273,shy,Emotions,0,shy.mp4,test definition
+274,sister,Family,0,sister.mp4,test definition
+275,sit down,School,0,sit_down.mp4,test definition
+276,six,Numbers,0,six.mp4,test definition
+277,sixteen,Numbers,0,sixteen.mp4,test definition
+278,sixty,Numbers,0,sixty.mp4,test definition
+279,sleep,Emotions,0,sleep.mp4,test definition
+280,SM,Places,0,SM.mp4,test definition
+281,soda,Food,0,soda.mp4,test definition
+282,solve,School,0,solve.mp4,test definition
+283,south,Places,0,south.mp4,test definition
+284,spaghetti,Food,0,spaghetti.mp4,test definition
+285,spider,Animals,0,spider.mp4,test definition
+286,sports,School,0,sports.mp4,test definition
+287,stand up,School,0,stand_up.mp4,test definition
+288,start,School,0,start.mp4,test definition
+289,statistics,School,0,statistics.mp4,test definition
+290,stop,School,0,stop.mp4,test definition
+291,structure,School,0,structure.mp4,test definition
+292,study,School,0,study.mp4,test definition
+293,subject,School,0,subject.mp4,test definition
+294,subtraction,School,0,subtraction.mp4,test definition
+295,sugar,Food,0,sugar.mp4,test definition
+296,Sunday,Date and Time,0,Sunday.mp4,test definition
+297,sweep,School,0,sweep.mp4,test definition
+298,symbol,School,0,symbol.mp4,test definition
+299,t,Alphabet,0,t.mp4,test definition
+300,table,School,0,table.mp4,test definition
+301,Tacloban,Places,0,Tacloban.mp4,test definition
+302,talk,Greetings,0,talk.mp4,test definition
+303,talkative,Greetings,0,talkative.mp4,test definition
+304,teach,School,0,teach.mp4,test definition
+305,teacher,School,0,teacher.mp4,test definition
+306,technology,School,0,technology.mp4,test definition
+307,ten,School,0,ten.mp4,test definition
+308,test,School,0,test.mp4,test definition
+309,thank you,Greetings,0,thank_you.mp4,test definition
+310,thirsty,Emotions,0,thirsty.mp4,test definition
+311,thirteen,Numbers,0,thirteen.mp4,test definition
+312,thirty,Numbers,0,thirty.mp4,test definition
+313,thousand,Numbers,0,thousand.mp4,test definition
+314,three,Numbers,0,three.mp4,test definition
+315,Thursday,Date and Time,0,Thursday.mp4,test definition
+316,time,Date and Time,0,time.mp4,test definition
+317,tired,Emotions,0,tired.mp4,test definition
+318,today,Date and Time,0,today.mp4,test definition
+319,trillion,Numbers,0,trillion.mp4,test definition
+320,true truth,School,0,true_truth.mp4,test definition
+321,Tuesday,Date and Time,0,Tuesday.mp4,test definition
+322,twelve,Numbers,0,twelve.mp4,test definition
+323,twenty,Numbers,0,twenty.mp4,test definition
+324,twenty eight,Numbers,0,twenty_eight.mp4,test definition
+325,twenty five,Numbers,0,twenty_five.mp4,test definition
+326,twenty four,Numbers,0,twenty_four.mp4,test definition
+327,twenty nine,Numbers,0,twenty_nine.mp4,test definition
+328,twenty one,Numbers,0,twenty_one.mp4,test definition
+329,twenty seven,Numbers,0,twenty_seven.mp4,test definition
+330,twenty six,Numbers,0,twenty_six.mp4,test definition
+331,twenty three,Numbers,0,twenty_three.mp4,test definition
+332,twenty two,Numbers,0,twenty_two.mp4,test definition
+333,two,Numbers,0,two.mp4,test definition
+334,u,Alphabet,0,u.mp4,test definition
+335,uncle,Family,0,uncle.mp4,test definition
+336,understand,School,0,understand.mp4,test definition
+337,v,Alphabet,0,v.mp4,test definition
+338,values,School,0,values.mp4,test definition
+339,vegetable,Food,0,vegetable.mp4,test definition
+340,very good,Greetings,0,very_good.mp4,test definition
+341,w,Alphabet,0,w.mp4,test definition
+342,walk,Greetings,0,walk.mp4,test definition
+343,want,Emotions,0,want.mp4,test definition
+344,water,Food,0,water.mp4,test definition
+345,watermelon,Food,0,watermelon.mp4,test definition
+346,Wednesday,Date and Time,0,Wednesday.mp4,test definition
+347,week,Date and Time,0,week.mp4,test definition
+348,weekday,Date and Time,0,weekday.mp4,test definition
+349,weekend,Date and Time,0,weekend.mp4,test definition
+350,welcome,Greetings,0,welcome.mp4,test definition
+351,west,Places,0,west.mp4,test definition
+352,what,Greetings,0,what.mp4,test definition
+353,what is your name,Greetings,0,what_is_your_name.mp4,test definition
+354,when,Greetings,0,when.mp4,test definition
+355,where,Greetings,0,where.mp4,test definition
+356,which,Greetings,0,which.mp4,test definition
+357,white,Colors,0,white.mp4,test definition
+358,who,Greetings,0,who.mp4,test definition
+359,why,Greetings,0,why.mp4,test definition
+360,wow,Greetings,0,wow.mp4,test definition
+361,write,School,0,write.mp4,test definition
+362,wrong,School,0,wrong.mp4,test definition
+363,x,Alphabet,0,x.mp4,test definition
+364,y,Alphabet,0,y.mp4,test definition
+365,year,Date and Time,0,year.mp4,test definition
+366,yellow,Colors,0,yellow.mp4,test definition
+367,yes,Greetings,0,yes.mp4,test definition
+368,z,Alphabet,0,z.mp4,test definition
+369,zero,Numbers,0,zero.mp4,test definition
