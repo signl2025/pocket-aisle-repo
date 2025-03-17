@@ -1,371 +1,371 @@
 #id,word,category,refId,vFileName,definition
 1,A,Alphabet,0,a.mp4,The 1st letter of the English alphabet.
-2,Absent,School,0,absent.mp4,Not present.
-3,Activities,School,0,activities.mp4,Actions or tasks to do.
-4,Addition,School,0,addition.mp4,The process of adding numbers or things.
-5,Allow,School,0,allow.mp4,To permit or let something happen.
-6,Ampalaya,Food,0,ampalaya.mp4,"A bitter melon, often used in cooking."
-7,Analyze,School,0,analyze.mp4,To examine something in detail.
-8,Angry,Emotions,0,angry.mp4,Feeling upset or mad.
-9,Answer,School,0,answer.mp4,A response to a question.
-10,Ant,Animals,0,ant.mp4,A small insect that lives in colonies.
-11,April,Date and Time,0,April.mp4,The fourth month of the year.
-12,Are you alright?,Greetings,0,are_you_alright.mp4,A question asking if someone is okay.
-13,Arts,School,0,arts.mp4,Creative activities such as painting or music.
-14,Assignment,School,0,assignment.mp4,A task given to someone to complete.
-15,Attention,School,0,attention.mp4,Focusing on something or someone.
-16,August,Date and Time,0,August.mp4,The eighth month of the year.
-17,Auntie,Family,0,auntie.mp4,A term used for a woman who is a sister to one's parent.
-18,B,Alphabet,0,b.mp4,The 2nd letter of the English alphabet.
-19,Baby,Family,0,baby.mp4,A very young child or infant.
-20,Bad,Greetings,0,bad.mp4,Not good; harmful or unpleasant.
-21,Banana,Food,0,banana.mp4,"A long, yellow fruit."
-22,Beautiful,Greetings,0,beautiful.mp4,Pleasing to the senses or attractive.
-23,Beef meat,Food,0,beef_meat.mp4,Meat from a cow.
-24,Billion,Numbers,0,billion.mp4,The number equivalent to one thousand million.
-25,Bird,Animals,0,bird.mp4,A flying animal with feathers.
-26,Black,Colors,0,black.mp4,The color of the darkest shade.
-27,Blue,Colors,0,blue.mp4,A color resembling the sky or the sea.
-28,Board,School,0,board.mp4,"A flat, thin piece of material."
-29,Book,School,0,book.mp4,A set of written or printed pages bound together.
-30,Boy,Family,0,boy.mp4,A male child or young man.
-31,Bread,Food,0,bread.mp4,A baked food made from flour and water.
-32,Bridge,Places,0,bridge.mp4,A structure built to span a gap or obstacle.
-33,Brother,Family,0,brother.mp4,A male sibling.
-34,Brown,Colors,0,brown.mp4,"A color made from mixing red, yellow, and black."
-35,Building,School,0,building.mp4,A structure with walls and a roof.
-36,Butter,Food,0,butter.mp4,A yellowish dairy product made from cream.
-37,C,Alphabet,0,c.mp4,The 3rd letter of the English alphabet.
-38,Cable,School,0,cable.mp4,"A strong, thick wire used for electrical or mechanical purposes."
-39,Candy,Food,0,candy.mp4,"A sweet food, often made with sugar."
-40,Carabao,Animals,0,carabao.mp4,A large water buffalo native to the Philippines.
-41,Cat,Animals,0,cat.mp4,A small domestic animal often kept as a pet.
-42,Cebu,Places,0,Cebu.mp4,An island province in the Philippines.
-43,Chair,School,0,chair.mp4,A piece of furniture for sitting.
-44,Cheese,Food,0,cheese.mp4,A dairy product made from milk.
-45,Chicken meat,Food,0,chicken_meat.mp4,Meat from a chicken.
-46,Child,Family,0,child.mp4,"A young person, usually under the age of 18."
-47,Children,Family,0,children.mp4,"Plural of child, young people."
-48,Chocolate,Food,0,chocolate.mp4,A sweet treat made from cocoa.
-49,Church,Places,0,church.mp4,A building used for religious worship.
-50,Clap,Greetings|School,0,clap.mp4,To strike hands together in appreciation or rhythm.
-51,Class,School,0,class.mp4,A group of students or a lesson.
-52,Clean,School,0,clean.mp4,Free from dirt or impurities.
-53,Code coding,School,0,code_coding.mp4,Writing instructions for computers using programming languages.
-54,Coffee,Food,0,coffee.mp4,A hot drink made from roasted coffee beans.
-55,Colors,Colors,0,colors.mp4,Different hues of light or pigments.
-56,Communication,Greetings,0,communication.mp4,The exchange of information.
-57,Computer program,School,0,computer_program.mp4,A set of instructions for a computer.
-58,Congratulations,Greetings,0,congratulations.mp4,A message expressing happiness for someone's success.
-59,Copy,School,0,copy.mp4,To make an identical reproduction.
-60,Cousin,Family,0,cousin.mp4,A child of your aunt or uncle.
-61,Cow,Animals,0,cow.mp4,A large domesticated animal raised for milk or meat.
-62,CPU,School,0,cpu.mp4,Central Processing Unit; the brain of a computer.
-63,Crazy,Emotions,0,crazy.mp4,Mentally unstable or wildly irrational.
-64,Cry,Emotions,0,cry.mp4,"To shed tears, usually due to emotion."
-65,D,Alphabet,0,d.mp4,The 4th letter of the English alphabet.
-66,Dance,School,0,dance.mp4,To move rhythmically to music.
-67,Daughter,Family,0,daughter.mp4,A female child.
-68,Day,Date and Time,0,day.mp4,"A 24-hour period, from morning to night."
-69,December,Date and Time,0,December.mp4,The twelfth month of the year.
-70,Depressed,Emotions,0,depressed.mp4,Feeling sad or down for a prolonged time.
-71,Divide,School,0,divide.mp4,To separate into parts or groups.
-72,Dog,Animals,0,dog.mp4,A domesticated carnivorous mammal.
-73,Done/Finish,School,0,done_finish.mp4,To complete a task.
-74,Don't know,School,0,dont_know.mp4,Uncertain or unaware of something.
-75,Don't understand,School,0,dont_understand.mp4,Unable to comprehend something.
-76,Doubt,Emotions,0,doubt.mp4,To question the truth or validity of something.
-77,Duck,Animals,0,duck.mp4,"A waterfowl with a broad, flat bill."
-78,E,Alphabet,0,e.mp4,The 4th letter of the English alphabet.
-79,Early,School,0,early.mp4,Happening or occurring before expected.
-80,East,Places,0,east.mp4,The direction toward the rising sun.
-81,Eat food,Food,0,eat_food.mp4,To consume something for nourishment.
-82,Eight,Numbers,0,eight.mp4,The number following seven.
-83,Eighteen,Numbers,0,eighteen.mp4,The number following seventeen.
-84,Eighty,Numbers,0,eighty.mp4,The number following seventy-nine.
-85,Eleven,Numbers,0,eleven.mp4,The number following ten.
-86,Embarrassed,Emotions,0,embarrassed.mp4,Feeling self-conscious or ashamed.
-87,English,School,0,english.mp4,"The language spoken in the UK, US, and other countries."
-88,Equal,School,0,equal.mp4,"The same in size, quantity, or value."
-89,Erase,School,0,Erase.mp4,To remove or wipe out something.
-90,Excited,Emotions,0,excited.mp4,Feeling happy and enthusiastic.
-91,Explain,School,0,explain.mp4,To make something clear or easy to understand.
-92,F,Alphabet,0,f.mp4,The 6th letter of the English alphabet.
-93,False,School,0,false.mp4,Not true.
-94,Family,Family,0,family.mp4,A group consisting of parents and children.
-95,Fast,School,0,fast_quick.mp4,Moving or happening in a short time.
-96,Father,Family,0,father.mp4,A male parent.
-97,Fear,Emotions,0,fear.mp4,A feeling of anxiety or concern.
-98,February,Date and Time,0,February.mp4,The second month of the year.
-99,Fifteen,Numbers,0,fifteen.mp4,The number following fourteen.
-100,Fifty,Numbers,0,fifty.mp4,The number following forty-nine.
-101,Filipino,School,0,filipino.mp4,A person from the Philippines or the national language.
-102,Five,Numbers,0,five.mp4,The number following four.
-103,Forget,School,0,forget.mp4,To fail to remember.
-104,Forty,Numbers,0,forty.mp4,The number following thirty-nine.
-105,Four,Numbers,0,four.mp4,The number following three.
-106,Fourteen,Numbers,0,fourteen.mp4,The number following thirteen.
-107,Fraction,School,0,fraction.mp4,A part of a whole number.
-108,Friday,Date and Time,0,Friday.mp4,The fifth day of the week.
-109,Friends,Family,0,friends.mp4,People you trust and enjoy being with.
-110,Fruit,Food,0,fruit.mp4,The sweet product of a plant or tree.
-111,G,Alphabet,0,g.mp4,The 7th letter of the English alphabet.
-112,Gaisano,Places,0,Gaisano.mp4,A popular department store and shopping center in the Philippines.
-113,Game,School,0,game.mp4,A structured activity for entertainment or competition.
-114,Get,School,0,get.mp4,To obtain or receive something.
-115,Girl,Family,0,girl.mp4,A female child or young woman.
-116,Good,Greetings,0,good.mp4,Desirable or positive in nature.
-117,Good afternoon,Greetings,0,good_afternoon.mp4,A greeting used in the afternoon.
-118,Good bye,Greetings,0,good_bye.mp4,A phrase used to bid farewell.
-119,Good evening,Greetings,0,good_evening.mp4,A greeting used in the evening.
-120,Good morning,Greetings,0,good_morning.mp4,A greeting used in the morning.
-121,Good night,Greetings,0,good_night.mp4,A phrase used when parting in the evening or before sleep.
-122,Good noon,Greetings,0,good_noon.mp4,A greeting used around noon.
-123,Grandfather,Family,0,grandfather.mp4,The father of one s parent.
-124,Grandmother,Family,0,grandmother.mp4,The mother of one s parent.
-125,Gray,Colors,0,gray.mp4,A color between black and white.
-126,Greater than,School,0,greater_than.mp4,A symbol used to indicate one quantity is larger than another.
-127,Green,Colors,0,green.mp4,A color resembling grass or leaves.
-128,Guess the greetings,Greetings,0,guess_the_greetings.mp4,An activity of guessing different ways to greet someone.
-129,H,Alphabet,0,h.mp4,The 8th letter of the English alphabet.
-130,Hamburger,Food,0,hamburger.mp4,"A sandwich with a cooked patty of ground meat, usually beef."
-131,Handsome,Greetings,0,handsome.mp4,"Attractive, typically used for men."
-132,Happy,Emotions,0,happy.mp4,Feeling or showing pleasure or contentment.
-133,Happy anniversary,Greetings,0,happy_anniversary.mp4,"A greeting to celebrate the anniversary of an event, typically a marriage."
-134,Happy birthday,Greetings,0,happy_birthday.mp4,A greeting to celebrate someone's birthday.
-135,Happy Father's Day,Greetings,0,happy_fathers_day.mp4,A greeting celebrating fathers.
-136,Happy Mother's Day,Greetings,0,happy_mothers_day.mp4,A greeting celebrating mothers.
-137,Happy Valentine's,Greetings,0,happy_valentines.mp4,"A greeting for Valentine's Day, celebrating love."
-138,Hen,Animals,0,hen.mp4,A female chicken.
-139,Hi or hello,Greetings,0,hi_or_hello.mp4,Common greetings used to address someone.
-140,Home,Family,0,home.mp4,The place where someone lives.
-141,Horse,Animals,0,horse.mp4,"A large, domesticated animal used for riding or work."
-142,Hospital,Places,0,hospital.mp4,A facility for medical treatment.
-143,Hotdog,Food,0,hotdog.mp4,"A cooked sausage, usually served in a bun."
-144,Hour,Date and Time,0,hour.mp4,"A unit of time, equal to 60 minutes."
-145,House,Places,0,house.mp4,A building where people live.
-146,How,Greetings,0,how.mp4,A question word used to inquire about the manner of something.
-147,How are you?,Greetings,0,how_are_you.mp4,A common greeting used to ask about someone s well-being.
-148,Hundred,Numbers,0,hundred.mp4,The number following ninety-nine.
-149,Hungry,Emotions,0,hungry.mp4,Feeling or displaying the need for food.
-150,I,Alphabet,0,i.mp4,The 9th letter of the English alphabet.
-151,Ice cream,Greetings,0,I_love_you.mp4,"A frozen dessert made from cream, sugar, and flavorings."
-152,I'm fine,Greetings,0,I_miss_you.mp4,A response indicating that one is feeling good.
-153,I'm sick,Food,0,ice_cream.mp4,A phrase used when someone is not feeling well.
-154,Input,Greetings,0,im_fine.mp4,The information or data that is entered into a system.
-155,Intelligent/Bright,Greetings,0,Im_sick.mp4,Having a high mental capacity.
-156,Internet,School,0,input.mp4,A global network of interconnected computers.
-157,I love you,School,0,intelligent_bright.mp4,A phrase expressing deep affection.
-158,I miss you,School,0,internet.mp4,A phrase expressing longing for someone who is not present.
-159,J,Alphabet,0,j.mp4,The 10th letter of the English alphabet.
-160,January,Date and Time,0,January.mp4,The first month of the year.
-161,Jealous,Emotions,0,jealous.mp4,Feeling envy or resentment towards someone s success or possessions.
-162,Jollibee,Places,0,Jollibee.mp4,A popular Filipino fast-food chain.
-163,Juice,Food,0,juice.mp4,A drink made from fruits or vegetables.
-164,July,Date and Time,0,July.mp4,The seventh month of the year.
-165,June,Date and Time,0,June.mp4,The sixth month of the year.
-166,K,Alphabet,0,k.mp4,The 11th letter of the English alphabet.
-167,Keyboard,School,0,keyboard.mp4,A set of keys used to input data into a computer.
-168,KFC,Places,0,KFC.mp4,A popular fast-food chain specializing in fried chicken.
-169,L,Alphabet,0,L.mp4,The 12th letter of the English alphabet.
-170,Laptop,School,0,laptop.mp4,A portable computer.
-171,Late,School,0,late.mp4,Arriving after the expected or scheduled time.
-172,Learn,School,0,learn.mp4,To acquire knowledge or skills through study or experience.
-173,Lesson,School,0,less_than.mp4,A period of instruction.
-174,Less than,School,0,lesson.mp4,A symbol used to indicate one quantity is smaller than another.
-175,Lie,Emotions,0,lie.mp4,To tell an untruth or false statement.
-176,Listen,School,0,listen.mp4,To pay attention to sound or speech.
-177,Love,Emotions,0,love.mp4,A deep feeling of affection or care for someone or something.
-178,M,Alphabet,0,m.mp4,The 13th letter of the English alphabet.
-179,Mango,Food,0,mango.mp4,"A tropical fruit with a sweet, juicy flesh."
-180,Manila,Places,0,Manila.mp4,The capital city of the Philippines.
-181,March,Date and Time,0,March.mp4,The third month of the year.
-182,Market,Places,0,market.mp4,A place where goods are sold.
-183,Math,School,0,Math.mp4,"The study of numbers, quantities, shapes, and patterns."
-184,May,Date and Time,0,May.mp4,The fifth month of the year.
-185,Mcdo,Places,0,Mcdo.mp4,A colloquial term for McDonald's in the Philippines.
-186,Memorize,School,0,memorize.mp4,To commit information to memory.
-187,Merry Christmas,Greetings,0,merry_christmas.mp4,A greeting celebrating Christmas.
-188,Milk,Food,0,milk.mp4,A white liquid produced by mammals to nourish their young.
-189,Million,Numbers,0,million.mp4,The number equal to one thousand thousand.
-190,Minus,School,0,minus.mp4,The operation of subtracting one number from another.
-191,Minutes,Date and Time,0,minutes.mp4,A unit of time equal to 60 seconds.
-192,Monday,Date and Time,0,Monday.mp4,The first day of the week.
-193,Monitor,School,0,monitor.mp4,A screen used to display information from a computer.
-194,Month,Date and Time,0,month.mp4,A period of time lasting roughly 30 days.
-195,Mother,Family,0,mother.mp4,A female parent.
-196,Multiply,School,0,multiply.mp4,To increase a number by a specified factor.
-197,Music/Sing,School,0,music_sing.mp4,The art of creating and performing sound for enjoyment or expression.
-198,N,Alphabet,0,n.mp4,The 14th letter of the English alphabet.
-199,Name,Family,0,name.mp4,"A word by which a person, place, or thing is identified."
-200,Need,Emotions,0,need.mp4,Something required for a person s well-being or for completing a task.
-201,Nephew,Family,0,nephew.mp4,The son of one's sibling.
-202,Network/Networking,School,0,network_networking.mp4,"The process of connecting and interacting with others, especially for professional purposes."
-203,Nice to meet you,Greetings,0,nice_to_meet_you.mp4,A polite greeting when meeting someone for the first time.
-204,Niece,Family,0,niece.mp4,The daughter of one's sibling.
-205,Nine,Numbers,0,nine.mp4,The number following eight.
-206,Nineteen,Numbers,0,nineteen.mp4,The number following eighteen.
-207,Ninety,Numbers,0,ninety.mp4,The number following eighty-nine.
-208,No,Greetings,0,no.mp4,A negative response or refusal.
-209,North,Places,0,north.mp4,The direction toward the top of a map or the geographic north pole.
-210,Notebook,School,0,notebook.mp4,A book of paper for writing or drawing.
-211,November,Date and Time,0,November.mp4,The eleventh month of the year.
-212,Number,Numbers|School,0,number.mp4,A symbol used to represent a quantity or position.
-213,O,Alphabet,0,o.mp4,The 15th letter of the English alphabet.
-214,Obey,Family,0,obey.mp4,To follow commands or rules.
-215,October,Date and Time,0,October.mp4,The tenth month of the year.
-216,Off,School,0,off.mp4,Not operating or not in action.
-217,Old age,Family,0,old_age.mp4,"The later part of a person s life, often characterized by physical decline."
-218,On,School,0,on.mp4,In contact with or supported by a surface.
-219,One,Numbers,0,one.mp4,The number following zero.
-220,One half,School,0,one_half.mp4,A fraction representing 1 out of 2 equal parts.
-221,One whole,School,0,one_whole.mp4,"A complete, undivided unit."
-222,Orange,Colors,0,orange.mp4,A color and a fruit.
-223,Output,School,0,output.mp4,The result or product produced by a system.
-224,P,Alphabet,0,p.mp4,The 16th letter of the English alphabet.
-225,Pancit,Food,0,pancit.mp4,A Filipino dish made with noodles.
-226,Parents,Family,0,parents.mp4,The mother and father of a child.
-227,Party,School,0,party.mp4,A social gathering for entertainment or celebration.
-228,Pass,School,0,pass.mp4,To go or move past; to succeed in an exam.
-229,PE,School,0,PE.mp4,Physical Education; a subject focused on physical activities and fitness.
-230,Philippines,Places,0,Philippines.mp4,An archipelago and country in Southeast Asia.
-231,Philosophy,School,0,Philosophy.mp4,"The study of fundamental questions about existence, knowledge, and ethics."
-232,Photocopy,School,0,photocopy.mp4,A reproduction of a document made by a photocopier.
-233,Physics,School,0,physics.mp4,"The science of matter, energy, and their interactions."
-234,Pie,Food,0,pie.mp4,A baked dish typically made with a pastry crust and filled with fruit or meat.
-235,Pineapple,Food,0,pineapple.mp4,"A tropical fruit with a spiky outer shell and sweet, juicy flesh."
-236,Pink,Colors,0,pink.mp4,A light red color.
-237,Pity,Emotions,0,pity.mp4,A feeling of sorrow for someone s misfortune.
-238,Play,School,0,play.mp4,To engage in an activity for fun or amusement.
-239,Pork meat,Food,0,pork_meat.mp4,Meat from a pig.
-240,President,School,0,president.mp4,The head of state or leader of a country.
-241,Principal,School,0,principal.mp4,The head of a school.
-242,Problem,School,0,problem.mp4,A situation or challenge that requires a solution.
-243,Promise,Greetings,0,promise.mp4,A commitment to do something or a pledge.
-244,Purple,Colors,0,purple.mp4,A color made by mixing red and blue.
-245,Q,Alphabet,0,q.mp4,The 17th letter of the English alphabet.
-246,Questions,School,0,questions.mp4,Inquiries made to gain information.
-247,Quick,School,0,fast_quick.mp4,Moving or happening in a short time.
-248,Quiet,Emotions,0,quiet.mp4,Not making much noise; peaceful.
-249,R,Alphabet,0,r.mp4,The 18th letter of the English alphabet.
-250,Rainbow,Colors,0,rainbow.mp4,A colorful arc in the sky caused by sunlight reflecting through rain.
-251,Read,School,0,read.mp4,To look at and comprehend written words.
-252,Red,Colors,0,red.mp4,A color resembling that of blood or ripe cherries.
-253,Relaxed,Emotions,0,relaxed.mp4,Feeling calm and free from stress.
-254,Remember,School,0,remember.mp4,To recall something from memory.
-255,Research,School,0,research.mp4,The process of investigating or studying something in depth.
-256,Right,School,0,right.mp4,Correct or morally good.
-257,Robinsons,Places,0,Robinsons.mp4,A popular shopping mall chain in the Philippines.
-258,Run,School,0,run.mp4,To move at a fast pace on foot.
-259,S,Alphabet,0,s.mp4,The 19th letter of the English alphabet.
-260,Sad,Emotions,0,sad.mp4,Feeling sorrow or unhappiness.
-261,Saturday,Date and Time,0,Saturday.mp4,The sixth day of the week.
-262,Scared,Emotions,0,scared.mp4,Feeling afraid or frightened.
-263,School,School,0,school.mp4,An institution for learning.
-264,Science,School,0,Science.mp4,The systematic study of the natural world.
-265,Seconds,Date and Time,0,seconds.mp4,A unit of time equal to one sixtieth of a minute.
-266,See you again,Greetings,0,see_you_again.mp4,A farewell phrase meaning you hope to meet the person again.
-267,See you later,Greetings,0,see_you_later.mp4,"A casual way of saying goodbye, implying you ll meet again soon."
-268,See you tomorrow,Greetings,0,see_you_tomorrow.mp4,A farewell phrase meaning you will see the person the next day.
-269,September,Date and Time,0,September.mp4,The ninth month of the year.
-270,Serious,Emotions,0,serious.mp4,Sincere or not joking.
-271,Seven,Numbers,0,seven.mp4,The number following six.
-272,Seventeen,Numbers,0,seventeen.mp4,The number following sixteen.
-273,Seventy,Numbers,0,seventy.mp4,The number following sixty-nine.
-274,Shy,Emotions,0,shy.mp4,Nervous or uncomfortable in the company of others.
-275,Sister,Family,0,sister.mp4,A female sibling.
-276,Sit down,School,0,sit_down.mp4,A command or invitation to sit.
-277,Six,Numbers,0,six.mp4,The number following five.
-278,Sixteen,Numbers,0,sixteen.mp4,The number following fifteen.
-279,Sixty,Numbers,0,sixty.mp4,The number following fifty-nine.
-280,Sleep,Emotions,0,sleep.mp4,A natural state of rest for the body and mind.
-281,SM,Places,0,SM.mp4,A large shopping mall and retail chain in the Philippines.
-282,Soda,Food,0,soda.mp4,A carbonated soft drink.
-283,Solve,School,0,solve.mp4,To find an answer or solution.
-284,South,Places,0,south.mp4,The direction toward the bottom of a map or the geographic south pole.
-285,Spaghetti,Food,0,spaghetti.mp4,"A type of pasta, often served with sauce."
-286,Spider,Animals,0,spider.mp4,An eight-legged arachnid.
-287,Sports,School,0,sports.mp4,Physical activities or games played for fun or competition.
-288,Stand up,School,0,stand_up.mp4,A command or invitation to rise to a standing position.
-289,Start,School,0,start.mp4,To begin something.
-290,Statistics,School,0,statistics.mp4,"The study of data collection, analysis, and interpretation."
-291,Stop,School,0,stop.mp4,To cease or bring an activity to an end.
-292,Structure,School,0,structure.mp4,An arrangement of parts or elements.
-293,Study,School,0,study.mp4,To engage in learning or researching something.
-294,Subject,School,0,subject.mp4,A topic or field of study.
-295,Subtraction,School,0,subtraction.mp4,The mathematical operation of taking one number away from another.
-296,Sugar,Food,0,sugar.mp4,A sweet-tasting substance often used in cooking and baking.
-297,Sunday,Date and Time,0,Sunday.mp4,The seventh day of the week.
-298,Sweep,School,0,sweep.mp4,To clean or move debris with a broom or brush.
-299,Symbol,School,0,symbol.mp4,A mark or character used to represent something.
-300,T,Alphabet,0,t.mp4,The 20th letter of the English alphabet.
-301,Table,School,0,table.mp4,"A piece of furniture with a flat surface, used for working or eating."
-302,Tacloban,Places,0,Tacloban.mp4,"A city in the Philippines, known for its history and location."
-303,Talk,Greetings,0,talk.mp4,To speak or communicate with others.
-304,Talkative,Greetings,0,talkative.mp4,Fond of talking; chatty.
-305,Teach,School,0,teach.mp4,To provide instruction or guidance.
-306,Teacher,School,0,teacher.mp4,A person who educates students.
-307,Technology,School,0,technology.mp4,The use of scientific knowledge for practical purposes.
-308,Ten,School,0,ten.mp4,The number following nine.
-309,Test,School,0,test.mp4,A procedure to measure someone's knowledge or skills.
-310,Thank you,Greetings,0,thank_you.mp4,A phrase used to express gratitude.
-311,Thirsty,Emotions,0,thirsty.mp4,Needing or wanting a drink.
-312,Thirteen,Numbers,0,thirteen.mp4,The number following twelve.
-313,Thirty,Numbers,0,thirty.mp4,The number following twenty-nine.
-314,Thousand,Numbers,0,thousand.mp4,A number equal to 10 hundred.
-315,Three,Numbers,0,three.mp4,The number following two.
-316,Thursday,Date and Time,0,Thursday.mp4,The fifth day of the week.
-317,Time,Date and Time,0,time.mp4,A measure of the progression of events.
-318,Tired,Emotions,0,tired.mp4,Feeling exhausted or in need of rest.
-319,Today,Date and Time,0,today.mp4,The current day.
-320,Trillion,Numbers,0,trillion.mp4,A number equal to one million million.
-321,True/Truth,School,0,true_truth.mp4,Something that is factual or accurate.
-322,Tuesday,Date and Time,0,Tuesday.mp4,The second day of the week.
-323,Twelve,Numbers,0,twelve.mp4,The number following eleven.
-324,Twenty,Numbers,0,twenty.mp4,The number following nineteen.
-325,Twenty-eight,Numbers,0,twenty_eight.mp4,The number following twenty-seven.
-326,Twenty-five,Numbers,0,twenty_five.mp4,The number following twenty-four.
-327,Twenty-four,Numbers,0,twenty_four.mp4,The number following twenty-three.
-328,Twenty-nine,Numbers,0,twenty_nine.mp4,The number following twenty-eight.
-329,Twenty-one,Numbers,0,twenty_one.mp4,The number following twenty.
-330,Twenty-seven,Numbers,0,twenty_seven.mp4,The number following twenty-six.
-331,Twenty-six,Numbers,0,twenty_six.mp4,The number following twenty-five.
-332,Twenty-three,Numbers,0,twenty_three.mp4,The number following twenty-two.
-333,Twenty-two,Numbers,0,twenty_two.mp4,The number following twenty-one.
-334,Two,Numbers,0,two.mp4,The number following one.
-335,U,Alphabet,0,u.mp4,The 21st letter of the English alphabet.
-336,Uncle,Family,0,uncle.mp4,The brother of one's parent.
-337,Understand,School,0,understand.mp4,To grasp the meaning or significance of something.
-338,V,Alphabet,0,v.mp4,The 22nd letter of the English alphabet.
-339,Values,School,0,values.mp4,Beliefs or principles that guide behavior.
-340,Vegetable,Food,0,vegetable.mp4,"An edible plant or part of a plant, typically eaten as part of a meal."
-341,Very good,Greetings,0,very_good.mp4,An expression of approval or high quality.
-342,W,Alphabet,0,w.mp4,The 23rd letter of the English alphabet.
-343,Walk,Greetings,0,walk.mp4,To move at a regular pace by lifting and setting down each foot in turn.
-344,Want,Emotions,0,want.mp4,To desire something.
-345,Water,Food,0,water.mp4,"A clear, colorless liquid essential for life."
-346,Watermelon,Food,0,watermelon.mp4,"A large, sweet fruit with green skin and red, juicy flesh."
-347,Wednesday,Date and Time,0,Wednesday.mp4,The fourth day of the week.
-348,Week,Date and Time,0,week.mp4,A period of seven days.
-349,Weekday,Date and Time,0,weekday.mp4,A day of the week that is not a weekend.
-350,Weekend,Date and Time,0,weekend.mp4,"The end of the week, typically Saturday and Sunday."
-351,Welcome,Greetings,0,welcome.mp4,A greeting to show hospitality or acceptance.
-352,West,Places,0,west.mp4,The direction opposite of east.
-353,What,Greetings,0,what.mp4,A question word used to inquire about something.
-354,What is your name?,Greetings,0,what_is_your_name.mp4,A question asking for someone's name.
-355,When,Greetings,0,when.mp4,A question word used to ask about time.
-356,Where,Greetings,0,where.mp4,A question word used to ask about place or location.
-357,Which,Greetings,0,which.mp4,A question word used to select one or more items from a set.
-358,White,Colors,0,white.mp4,A color resembling milk or snow.
-359,Who,Greetings,0,who.mp4,A question word used to ask about a person.
-360,Why,Greetings,0,why.mp4,A question word used to ask about reasons.
-361,Wow,Greetings,0,wow.mp4,An expression of surprise or admiration.
-362,Write,School,0,write.mp4,"To form letters, words, or symbols on a surface, typically paper."
-363,Wrong,School,0,wrong.mp4,Not correct; mistaken.
-364,X,Alphabet,0,x.mp4,The 24th letter of the English alphabet.
-365,Y,Alphabet,0,y.mp4,The 25th letter of the English alphabet.
-366,Year,Date and Time,0,year.mp4,"A period of 365 or 366 days, typically starting on January 1st."
-367,Yellow,Colors,0,yellow.mp4,"A bright color, often associated with sunshine."
-368,Yes,Greetings,0,yes.mp4,A positive response or approval.
-369,Z,Alphabet,0,z.mp4,The 26th letter of the English alphabet.
-370,Zero,Numbers,0,zero.mp4,The number representing nothing or the absence of quantity.
+2,B,Alphabet,0,b.mp4,The 2nd letter of the English alphabet.
+3,C,Alphabet,0,c.mp4,The 3rd letter of the English alphabet.
+4,D,Alphabet,0,d.mp4,The 4th letter of the English alphabet.
+5,E,Alphabet,0,e.mp4,The 4th letter of the English alphabet.
+6,F,Alphabet,0,f.mp4,The 6th letter of the English alphabet.
+7,G,Alphabet,0,g.mp4,The 7th letter of the English alphabet.
+8,H,Alphabet,0,h.mp4,The 8th letter of the English alphabet.
+9,I,Alphabet,0,i.mp4,The 9th letter of the English alphabet.
+10,J,Alphabet,0,j.mp4,The 10th letter of the English alphabet.
+11,K,Alphabet,0,k.mp4,The 11th letter of the English alphabet.
+12,L,Alphabet,0,L.mp4,The 12th letter of the English alphabet.
+13,M,Alphabet,0,m.mp4,The 13th letter of the English alphabet.
+14,N,Alphabet,0,n.mp4,The 14th letter of the English alphabet.
+15,O,Alphabet,0,o.mp4,The 15th letter of the English alphabet.
+16,P,Alphabet,0,p.mp4,The 16th letter of the English alphabet.
+17,Q,Alphabet,0,q.mp4,The 17th letter of the English alphabet.
+18,R,Alphabet,0,r.mp4,The 18th letter of the English alphabet.
+19,S,Alphabet,0,s.mp4,The 19th letter of the English alphabet.
+20,T,Alphabet,0,t.mp4,The 20th letter of the English alphabet.
+21,U,Alphabet,0,u.mp4,The 21st letter of the English alphabet.
+22,V,Alphabet,0,v.mp4,The 22nd letter of the English alphabet.
+23,W,Alphabet,0,w.mp4,The 23rd letter of the English alphabet.
+24,X,Alphabet,0,x.mp4,The 24th letter of the English alphabet.
+25,Y,Alphabet,0,y.mp4,The 25th letter of the English alphabet.
+26,Z,Alphabet,0,z.mp4,The 26th letter of the English alphabet.
+27,Ant,Animals,0,ant.mp4,A small insect that lives in colonies.
+28,Bird,Animals,0,bird.mp4,A flying animal with feathers.
+29,Carabao,Animals,0,carabao.mp4,A large water buffalo native to the Philippines.
+30,Cat,Animals,0,cat.mp4,A small domestic animal often kept as a pet.
+31,Cow,Animals,0,cow.mp4,A large domesticated animal raised for milk or meat.
+32,Dog,Animals,0,dog.mp4,A domesticated carnivorous mammal.
+33,Duck,Animals,0,duck.mp4,"A waterfowl with a broad, flat bill."
+34,Hen,Animals,0,hen.mp4,A female chicken.
+35,Horse,Animals,0,horse.mp4,"A large, domesticated animal used for riding or work."
+36,Spider,Animals,0,spider.mp4,An eight-legged arachnid.
+37,Black,Colors,0,black.mp4,The color of the darkest shade.
+38,Blue,Colors,0,blue.mp4,A color resembling the sky or the sea.
+39,Brown,Colors,0,brown.mp4,"A color made from mixing red, yellow, and black."
+40,Colors,Colors,0,colors.mp4,Different hues of light or pigments.
+41,Gray,Colors,0,gray.mp4,A color between black and white.
+42,Green,Colors,0,green.mp4,A color resembling grass or leaves.
+43,Orange,Colors,0,orange.mp4,A color and a fruit.
+44,Pink,Colors,0,pink.mp4,A light red color.
+45,Purple,Colors,0,purple.mp4,A color made by mixing red and blue.
+46,Rainbow,Colors,0,rainbow.mp4,A colorful arc in the sky caused by sunlight reflecting through rain.
+47,Red,Colors,0,red.mp4,A color resembling that of blood or ripe cherries.
+48,White,Colors,0,white.mp4,A color resembling milk or snow.
+49,Yellow,Colors,0,yellow.mp4,"A bright color, often associated with sunshine."
+50,April,Date and Time,0,April.mp4,The fourth month of the year.
+51,August,Date and Time,0,August.mp4,The eighth month of the year.
+52,Day,Date and Time,0,day.mp4,"A 24-hour period, from morning to night."
+53,December,Date and Time,0,December.mp4,The twelfth month of the year.
+54,February,Date and Time,0,February.mp4,The second month of the year.
+55,Friday,Date and Time,0,Friday.mp4,The fifth day of the week.
+56,Hour,Date and Time,0,hour.mp4,"A unit of time, equal to 60 minutes."
+57,January,Date and Time,0,January.mp4,The first month of the year.
+58,July,Date and Time,0,July.mp4,The seventh month of the year.
+59,June,Date and Time,0,June.mp4,The sixth month of the year.
+60,March,Date and Time,0,March.mp4,The third month of the year.
+61,May,Date and Time,0,May.mp4,The fifth month of the year.
+62,Minutes,Date and Time,0,minutes.mp4,A unit of time equal to 60 seconds.
+63,Monday,Date and Time,0,Monday.mp4,The first day of the week.
+64,Month,Date and Time,0,month.mp4,A period of time lasting roughly 30 days.
+65,November,Date and Time,0,November.mp4,The eleventh month of the year.
+66,October,Date and Time,0,October.mp4,The tenth month of the year.
+67,Saturday,Date and Time,0,Saturday.mp4,The sixth day of the week.
+68,Seconds,Date and Time,0,seconds.mp4,A unit of time equal to one sixtieth of a minute.
+69,September,Date and Time,0,September.mp4,The ninth month of the year.
+70,Sunday,Date and Time,0,Sunday.mp4,The seventh day of the week.
+71,Thursday,Date and Time,0,Thursday.mp4,The fifth day of the week.
+72,Time,Date and Time,0,time.mp4,A measure of the progression of events.
+73,Today,Date and Time,0,today.mp4,The current day.
+74,Tuesday,Date and Time,0,Tuesday.mp4,The second day of the week.
+75,Wednesday,Date and Time,0,Wednesday.mp4,The fourth day of the week.
+76,Week,Date and Time,0,week.mp4,A period of seven days.
+77,Weekday,Date and Time,0,weekday.mp4,A day of the week that is not a weekend.
+78,Weekend,Date and Time,0,weekend.mp4,"The end of the week, typically Saturday and Sunday."
+79,Year,Date and Time,0,year.mp4,"A period of 365 or 366 days, typically starting on January 1st."
+80,Angry,Emotions,0,angry.mp4,Feeling upset or mad.
+81,Crazy,Emotions,0,crazy.mp4,Mentally unstable or wildly irrational.
+82,Cry,Emotions,0,cry.mp4,"To shed tears, usually due to emotion."
+83,Depressed,Emotions,0,depressed.mp4,Feeling sad or down for a prolonged time.
+84,Doubt,Emotions,0,doubt.mp4,To question the truth or validity of something.
+85,Embarrassed,Emotions,0,embarrassed.mp4,Feeling self-conscious or ashamed.
+86,Excited,Emotions,0,excited.mp4,Feeling happy and enthusiastic.
+87,Fear,Emotions,0,fear.mp4,A feeling of anxiety or concern.
+88,Happy,Emotions,0,happy.mp4,Feeling or showing pleasure or contentment.
+89,Hungry,Emotions,0,hungry.mp4,Feeling or displaying the need for food.
+90,Jealous,Emotions,0,jealous.mp4,Feeling envy or resentment towards someone s success or possessions.
+91,Lie,Emotions,0,lie.mp4,To tell an untruth or false statement.
+92,Love,Emotions,0,love.mp4,A deep feeling of affection or care for someone or something.
+93,Need,Emotions,0,need.mp4,Something required for a person s well-being or for completing a task.
+94,Pity,Emotions,0,pity.mp4,A feeling of sorrow for someone s misfortune.
+95,Quiet,Emotions,0,quiet.mp4,Not making much noise; peaceful.
+96,Relaxed,Emotions,0,relaxed.mp4,Feeling calm and free from stress.
+97,Sad,Emotions,0,sad.mp4,Feeling sorrow or unhappiness.
+98,Scared,Emotions,0,scared.mp4,Feeling afraid or frightened.
+99,Serious,Emotions,0,serious.mp4,Sincere or not joking.
+100,Shy,Emotions,0,shy.mp4,Nervous or uncomfortable in the company of others.
+101,Sleep,Emotions,0,sleep.mp4,A natural state of rest for the body and mind.
+102,Thirsty,Emotions,0,thirsty.mp4,Needing or wanting a drink.
+103,Tired,Emotions,0,tired.mp4,Feeling exhausted or in need of rest.
+104,Want,Emotions,0,want.mp4,To desire something.
+105,Auntie,Family,0,auntie.mp4,A term used for a woman who is a sister to one's parent.
+106,Baby,Family,0,baby.mp4,A very young child or infant.
+107,Boy,Family,0,boy.mp4,A male child or young man.
+108,Brother,Family,0,brother.mp4,A male sibling.
+109,Child,Family,0,child.mp4,"A young person, usually under the age of 18."
+110,Children,Family,0,children.mp4,"Plural of child, young people."
+111,Cousin,Family,0,cousin.mp4,A child of your aunt or uncle.
+112,Daughter,Family,0,daughter.mp4,A female child.
+113,Family,Family,0,family.mp4,A group consisting of parents and children.
+114,Father,Family,0,father.mp4,A male parent.
+115,Friends,Family,0,friends.mp4,People you trust and enjoy being with.
+116,Girl,Family,0,girl.mp4,A female child or young woman.
+117,Grandfather,Family,0,grandfather.mp4,The father of one s parent.
+118,Grandmother,Family,0,grandmother.mp4,The mother of one s parent.
+119,Home,Family,0,home.mp4,The place where someone lives.
+120,Mother,Family,0,mother.mp4,A female parent.
+121,Name,Family,0,name.mp4,"A word by which a person, place, or thing is identified."
+122,Nephew,Family,0,nephew.mp4,The son of one's sibling.
+123,Niece,Family,0,niece.mp4,The daughter of one's sibling.
+124,Obey,Family,0,obey.mp4,To follow commands or rules.
+125,Old age,Family,0,old_age.mp4,"The later part of a person s life, often characterized by physical decline."
+126,Parents,Family,0,parents.mp4,The mother and father of a child.
+127,Sister,Family,0,sister.mp4,A female sibling.
+128,Uncle,Family,0,uncle.mp4,The brother of one's parent.
+129,Ampalaya,Food,0,ampalaya.mp4,"A bitter melon, often used in cooking."
+130,Banana,Food,0,banana.mp4,"A long, yellow fruit."
+131,Beef meat,Food,0,beef_meat.mp4,Meat from a cow.
+132,Bread,Food,0,bread.mp4,A baked food made from flour and water.
+133,Butter,Food,0,butter.mp4,A yellowish dairy product made from cream.
+134,Candy,Food,0,candy.mp4,"A sweet food, often made with sugar."
+135,Cheese,Food,0,cheese.mp4,A dairy product made from milk.
+136,Chicken meat,Food,0,chicken_meat.mp4,Meat from a chicken.
+137,Chocolate,Food,0,chocolate.mp4,A sweet treat made from cocoa.
+138,Coffee,Food,0,coffee.mp4,A hot drink made from roasted coffee beans.
+139,Eat food,Food,0,eat_food.mp4,To consume something for nourishment.
+140,Fruit,Food,0,fruit.mp4,The sweet product of a plant or tree.
+141,Hamburger,Food,0,hamburger.mp4,"A sandwich with a cooked patty of ground meat, usually beef."
+142,Hotdog,Food,0,hotdog.mp4,"A cooked sausage, usually served in a bun."
+143,I'm sick,Food,0,ice_cream.mp4,A phrase used when someone is not feeling well.
+144,Juice,Food,0,juice.mp4,A drink made from fruits or vegetables.
+145,Mango,Food,0,mango.mp4,"A tropical fruit with a sweet, juicy flesh."
+146,Milk,Food,0,milk.mp4,A white liquid produced by mammals to nourish their young.
+147,Pancit,Food,0,pancit.mp4,A Filipino dish made with noodles.
+148,Pie,Food,0,pie.mp4,A baked dish typically made with a pastry crust and filled with fruit or meat.
+149,Pineapple,Food,0,pineapple.mp4,"A tropical fruit with a spiky outer shell and sweet, juicy flesh."
+150,Pork meat,Food,0,pork_meat.mp4,Meat from a pig.
+151,Soda,Food,0,soda.mp4,A carbonated soft drink.
+152,Spaghetti,Food,0,spaghetti.mp4,"A type of pasta, often served with sauce."
+153,Sugar,Food,0,sugar.mp4,A sweet-tasting substance often used in cooking and baking.
+154,Vegetable,Food,0,vegetable.mp4,"An edible plant or part of a plant, typically eaten as part of a meal."
+155,Water,Food,0,water.mp4,"A clear, colorless liquid essential for life."
+156,Watermelon,Food,0,watermelon.mp4,"A large, sweet fruit with green skin and red, juicy flesh."
+157,Are you alright?,Greetings,0,are_you_alright.mp4,A question asking if someone is okay.
+158,Bad,Greetings,0,bad.mp4,Not good; harmful or unpleasant.
+159,Beautiful,Greetings,0,beautiful.mp4,Pleasing to the senses or attractive.
+160,Communication,Greetings,0,communication.mp4,The exchange of information.
+161,Congratulations,Greetings,0,congratulations.mp4,A message expressing happiness for someone's success.
+162,Good,Greetings,0,good.mp4,Desirable or positive in nature.
+163,Good afternoon,Greetings,0,good_afternoon.mp4,A greeting used in the afternoon.
+164,Good bye,Greetings,0,good_bye.mp4,A phrase used to bid farewell.
+165,Good evening,Greetings,0,good_evening.mp4,A greeting used in the evening.
+166,Good morning,Greetings,0,good_morning.mp4,A greeting used in the morning.
+167,Good night,Greetings,0,good_night.mp4,A phrase used when parting in the evening or before sleep.
+168,Good noon,Greetings,0,good_noon.mp4,A greeting used around noon.
+169,Guess the greetings,Greetings,0,guess_the_greetings.mp4,An activity of guessing different ways to greet someone.
+170,Handsome,Greetings,0,handsome.mp4,"Attractive, typically used for men."
+171,Happy anniversary,Greetings,0,happy_anniversary.mp4,"A greeting to celebrate the anniversary of an event, typically a marriage."
+172,Happy birthday,Greetings,0,happy_birthday.mp4,A greeting to celebrate someone's birthday.
+173,Happy Father's Day,Greetings,0,happy_fathers_day.mp4,A greeting celebrating fathers.
+174,Happy Mother's Day,Greetings,0,happy_mothers_day.mp4,A greeting celebrating mothers.
+175,Happy Valentine's,Greetings,0,happy_valentines.mp4,"A greeting for Valentine's Day, celebrating love."
+176,Hi or hello,Greetings,0,hi_or_hello.mp4,Common greetings used to address someone.
+177,How,Greetings,0,how.mp4,A question word used to inquire about the manner of something.
+178,How are you?,Greetings,0,how_are_you.mp4,A common greeting used to ask about someone s well-being.
+179,Ice cream,Greetings,0,I_love_you.mp4,"A frozen dessert made from cream, sugar, and flavorings."
+180,I'm fine,Greetings,0,I_miss_you.mp4,A response indicating that one is feeling good.
+181,Input,Greetings,0,im_fine.mp4,The information or data that is entered into a system.
+182,Intelligent/Bright,Greetings,0,Im_sick.mp4,Having a high mental capacity.
+183,Merry Christmas,Greetings,0,merry_christmas.mp4,A greeting celebrating Christmas.
+184,Nice to meet you,Greetings,0,nice_to_meet_you.mp4,A polite greeting when meeting someone for the first time.
+185,No,Greetings,0,no.mp4,A negative response or refusal.
+186,Promise,Greetings,0,promise.mp4,A commitment to do something or a pledge.
+187,See you again,Greetings,0,see_you_again.mp4,A farewell phrase meaning you hope to meet the person again.
+188,See you later,Greetings,0,see_you_later.mp4,"A casual way of saying goodbye, implying you ll meet again soon."
+189,See you tomorrow,Greetings,0,see_you_tomorrow.mp4,A farewell phrase meaning you will see the person the next day.
+190,Talk,Greetings,0,talk.mp4,To speak or communicate with others.
+191,Talkative,Greetings,0,talkative.mp4,Fond of talking; chatty.
+192,Thank you,Greetings,0,thank_you.mp4,A phrase used to express gratitude.
+193,Very good,Greetings,0,very_good.mp4,An expression of approval or high quality.
+194,Walk,Greetings,0,walk.mp4,To move at a regular pace by lifting and setting down each foot in turn.
+195,Welcome,Greetings,0,welcome.mp4,A greeting to show hospitality or acceptance.
+196,What,Greetings,0,what.mp4,A question word used to inquire about something.
+197,What is your name?,Greetings,0,what_is_your_name.mp4,A question asking for someone's name.
+198,When,Greetings,0,when.mp4,A question word used to ask about time.
+199,Where,Greetings,0,where.mp4,A question word used to ask about place or location.
+200,Which,Greetings,0,which.mp4,A question word used to select one or more items from a set.
+201,Who,Greetings,0,who.mp4,A question word used to ask about a person.
+202,Why,Greetings,0,why.mp4,A question word used to ask about reasons.
+203,Wow,Greetings,0,wow.mp4,An expression of surprise or admiration.
+204,Yes,Greetings,0,yes.mp4,A positive response or approval.
+205,Clap,Greetings|School,0,clap.mp4,To strike hands together in appreciation or rhythm.
+206,Billion,Numbers,0,billion.mp4,The number equivalent to one thousand million.
+207,Eight,Numbers,0,eight.mp4,The number following seven.
+208,Eighteen,Numbers,0,eighteen.mp4,The number following seventeen.
+209,Eighty,Numbers,0,eighty.mp4,The number following seventy-nine.
+210,Eleven,Numbers,0,eleven.mp4,The number following ten.
+211,Fifteen,Numbers,0,fifteen.mp4,The number following fourteen.
+212,Fifty,Numbers,0,fifty.mp4,The number following forty-nine.
+213,Five,Numbers,0,five.mp4,The number following four.
+214,Forty,Numbers,0,forty.mp4,The number following thirty-nine.
+215,Four,Numbers,0,four.mp4,The number following three.
+216,Fourteen,Numbers,0,fourteen.mp4,The number following thirteen.
+217,Hundred,Numbers,0,hundred.mp4,The number following ninety-nine.
+218,Million,Numbers,0,million.mp4,The number equal to one thousand thousand.
+219,Nine,Numbers,0,nine.mp4,The number following eight.
+220,Nineteen,Numbers,0,nineteen.mp4,The number following eighteen.
+221,Ninety,Numbers,0,ninety.mp4,The number following eighty-nine.
+222,One,Numbers,0,one.mp4,The number following zero.
+223,Seven,Numbers,0,seven.mp4,The number following six.
+224,Seventeen,Numbers,0,seventeen.mp4,The number following sixteen.
+225,Seventy,Numbers,0,seventy.mp4,The number following sixty-nine.
+226,Six,Numbers,0,six.mp4,The number following five.
+227,Sixteen,Numbers,0,sixteen.mp4,The number following fifteen.
+228,Sixty,Numbers,0,sixty.mp4,The number following fifty-nine.
+229,Thirteen,Numbers,0,thirteen.mp4,The number following twelve.
+230,Thirty,Numbers,0,thirty.mp4,The number following twenty-nine.
+231,Thousand,Numbers,0,thousand.mp4,A number equal to 10 hundred.
+232,Three,Numbers,0,three.mp4,The number following two.
+233,Trillion,Numbers,0,trillion.mp4,A number equal to one million million.
+234,Twelve,Numbers,0,twelve.mp4,The number following eleven.
+235,Twenty,Numbers,0,twenty.mp4,The number following nineteen.
+236,Twenty-eight,Numbers,0,twenty_eight.mp4,The number following twenty-seven.
+237,Twenty-five,Numbers,0,twenty_five.mp4,The number following twenty-four.
+238,Twenty-four,Numbers,0,twenty_four.mp4,The number following twenty-three.
+239,Twenty-nine,Numbers,0,twenty_nine.mp4,The number following twenty-eight.
+240,Twenty-one,Numbers,0,twenty_one.mp4,The number following twenty.
+241,Twenty-seven,Numbers,0,twenty_seven.mp4,The number following twenty-six.
+242,Twenty-six,Numbers,0,twenty_six.mp4,The number following twenty-five.
+243,Twenty-three,Numbers,0,twenty_three.mp4,The number following twenty-two.
+244,Twenty-two,Numbers,0,twenty_two.mp4,The number following twenty-one.
+245,Two,Numbers,0,two.mp4,The number following one.
+246,Zero,Numbers,0,zero.mp4,The number representing nothing or the absence of quantity.
+247,Number,Numbers|School,0,number.mp4,A symbol used to represent a quantity or position.
+248,Bridge,Places,0,bridge.mp4,A structure built to span a gap or obstacle.
+249,Cebu,Places,0,Cebu.mp4,An island province in the Philippines.
+250,Church,Places,0,church.mp4,A building used for religious worship.
+251,East,Places,0,east.mp4,The direction toward the rising sun.
+252,Gaisano,Places,0,Gaisano.mp4,A popular department store and shopping center in the Philippines.
+253,Hospital,Places,0,hospital.mp4,A facility for medical treatment.
+254,House,Places,0,house.mp4,A building where people live.
+255,Jollibee,Places,0,Jollibee.mp4,A popular Filipino fast-food chain.
+256,KFC,Places,0,KFC.mp4,A popular fast-food chain specializing in fried chicken.
+257,Manila,Places,0,Manila.mp4,The capital city of the Philippines.
+258,Market,Places,0,market.mp4,A place where goods are sold.
+259,Mcdo,Places,0,Mcdo.mp4,A colloquial term for McDonald's in the Philippines.
+260,North,Places,0,north.mp4,The direction toward the top of a map or the geographic north pole.
+261,Philippines,Places,0,Philippines.mp4,An archipelago and country in Southeast Asia.
+262,Robinsons,Places,0,Robinsons.mp4,A popular shopping mall chain in the Philippines.
+263,SM,Places,0,SM.mp4,A large shopping mall and retail chain in the Philippines.
+264,South,Places,0,south.mp4,The direction toward the bottom of a map or the geographic south pole.
+265,Tacloban,Places,0,Tacloban.mp4,"A city in the Philippines, known for its history and location."
+266,West,Places,0,west.mp4,The direction opposite of east.
+267,Absent,School,0,absent.mp4,Not present.
+268,Activities,School,0,activities.mp4,Actions or tasks to do.
+269,Addition,School,0,addition.mp4,The process of adding numbers or things.
+270,Allow,School,0,allow.mp4,To permit or let something happen.
+271,Analyze,School,0,analyze.mp4,To examine something in detail.
+272,Answer,School,0,answer.mp4,A response to a question.
+273,Arts,School,0,arts.mp4,Creative activities such as painting or music.
+274,Assignment,School,0,assignment.mp4,A task given to someone to complete.
+275,Attention,School,0,attention.mp4,Focusing on something or someone.
+276,Board,School,0,board.mp4,"A flat, thin piece of material."
+277,Book,School,0,book.mp4,A set of written or printed pages bound together.
+278,Building,School,0,building.mp4,A structure with walls and a roof.
+279,Cable,School,0,cable.mp4,"A strong, thick wire used for electrical or mechanical purposes."
+280,Chair,School,0,chair.mp4,A piece of furniture for sitting.
+281,Class,School,0,class.mp4,A group of students or a lesson.
+282,Clean,School,0,clean.mp4,Free from dirt or impurities.
+283,Code coding,School,0,code_coding.mp4,Writing instructions for computers using programming languages.
+284,Computer program,School,0,computer_program.mp4,A set of instructions for a computer.
+285,Copy,School,0,copy.mp4,To make an identical reproduction.
+286,CPU,School,0,cpu.mp4,Central Processing Unit; the brain of a computer.
+287,Dance,School,0,dance.mp4,To move rhythmically to music.
+288,Divide,School,0,divide.mp4,To separate into parts or groups.
+289,Done/Finish,School,0,done_finish.mp4,To complete a task.
+290,Don't know,School,0,dont_know.mp4,Uncertain or unaware of something.
+291,Don't understand,School,0,dont_understand.mp4,Unable to comprehend something.
+292,Early,School,0,early.mp4,Happening or occurring before expected.
+293,English,School,0,english.mp4,"The language spoken in the UK, US, and other countries."
+294,Equal,School,0,equal.mp4,"The same in size, quantity, or value."
+295,Erase,School,0,Erase.mp4,To remove or wipe out something.
+296,Explain,School,0,explain.mp4,To make something clear or easy to understand.
+297,FALSE,School,0,false.mp4,Not true.
+298,Fast,School,0,fast_quick.mp4,Moving or happening in a short time.
+299,Filipino,School,0,filipino.mp4,A person from the Philippines or the national language.
+300,Forget,School,0,forget.mp4,To fail to remember.
+301,Fraction,School,0,fraction.mp4,A part of a whole number.
+302,Game,School,0,game.mp4,A structured activity for entertainment or competition.
+303,Get,School,0,get.mp4,To obtain or receive something.
+304,Greater than,School,0,greater_than.mp4,A symbol used to indicate one quantity is larger than another.
+305,Internet,School,0,input.mp4,A global network of interconnected computers.
+306,I love you,School,0,intelligent_bright.mp4,A phrase expressing deep affection.
+307,I miss you,School,0,internet.mp4,A phrase expressing longing for someone who is not present.
+308,Keyboard,School,0,keyboard.mp4,A set of keys used to input data into a computer.
+309,Laptop,School,0,laptop.mp4,A portable computer.
+310,Late,School,0,late.mp4,Arriving after the expected or scheduled time.
+311,Learn,School,0,learn.mp4,To acquire knowledge or skills through study or experience.
+312,Lesson,School,0,less_than.mp4,A period of instruction.
+313,Less than,School,0,lesson.mp4,A symbol used to indicate one quantity is smaller than another.
+314,Listen,School,0,listen.mp4,To pay attention to sound or speech.
+315,Math,School,0,Math.mp4,"The study of numbers, quantities, shapes, and patterns."
+316,Memorize,School,0,memorize.mp4,To commit information to memory.
+317,Minus,School,0,minus.mp4,The operation of subtracting one number from another.
+318,Monitor,School,0,monitor.mp4,A screen used to display information from a computer.
+319,Multiply,School,0,multiply.mp4,To increase a number by a specified factor.
+320,Music/Sing,School,0,music_sing.mp4,The art of creating and performing sound for enjoyment or expression.
+321,Network/Networking,School,0,network_networking.mp4,"The process of connecting and interacting with others, especially for professional purposes."
+322,Notebook,School,0,notebook.mp4,A book of paper for writing or drawing.
+323,Off,School,0,off.mp4,Not operating or not in action.
+324,On,School,0,on.mp4,In contact with or supported by a surface.
+325,One half,School,0,one_half.mp4,A fraction representing 1 out of 2 equal parts.
+326,One whole,School,0,one_whole.mp4,"A complete, undivided unit."
+327,Output,School,0,output.mp4,The result or product produced by a system.
+328,Party,School,0,party.mp4,A social gathering for entertainment or celebration.
+329,Pass,School,0,pass.mp4,To go or move past; to succeed in an exam.
+330,PE,School,0,PE.mp4,Physical Education; a subject focused on physical activities and fitness.
+331,Philosophy,School,0,Philosophy.mp4,"The study of fundamental questions about existence, knowledge, and ethics."
+332,Photocopy,School,0,photocopy.mp4,A reproduction of a document made by a photocopier.
+333,Physics,School,0,physics.mp4,"The science of matter, energy, and their interactions."
+334,Play,School,0,play.mp4,To engage in an activity for fun or amusement.
+335,President,School,0,president.mp4,The head of state or leader of a country.
+336,Principal,School,0,principal.mp4,The head of a school.
+337,Problem,School,0,problem.mp4,A situation or challenge that requires a solution.
+338,Questions,School,0,questions.mp4,Inquiries made to gain information.
+339,Quick,School,0,fast_quick.mp4,Moving or happening in a short time.
+340,Read,School,0,read.mp4,To look at and comprehend written words.
+341,Remember,School,0,remember.mp4,To recall something from memory.
+342,Research,School,0,research.mp4,The process of investigating or studying something in depth.
+343,Right,School,0,right.mp4,Correct or morally good.
+344,Run,School,0,run.mp4,To move at a fast pace on foot.
+345,School,School,0,school.mp4,An institution for learning.
+346,Science,School,0,Science.mp4,The systematic study of the natural world.
+347,Sit down,School,0,sit_down.mp4,A command or invitation to sit.
+348,Solve,School,0,solve.mp4,To find an answer or solution.
+349,Sports,School,0,sports.mp4,Physical activities or games played for fun or competition.
+350,Stand up,School,0,stand_up.mp4,A command or invitation to rise to a standing position.
+351,Start,School,0,start.mp4,To begin something.
+352,Statistics,School,0,statistics.mp4,"The study of data collection, analysis, and interpretation."
+353,Stop,School,0,stop.mp4,To cease or bring an activity to an end.
+354,Structure,School,0,structure.mp4,An arrangement of parts or elements.
+355,Study,School,0,study.mp4,To engage in learning or researching something.
+356,Subject,School,0,subject.mp4,A topic or field of study.
+357,Subtraction,School,0,subtraction.mp4,The mathematical operation of taking one number away from another.
+358,Sweep,School,0,sweep.mp4,To clean or move debris with a broom or brush.
+359,Symbol,School,0,symbol.mp4,A mark or character used to represent something.
+360,Table,School,0,table.mp4,"A piece of furniture with a flat surface, used for working or eating."
+361,Teach,School,0,teach.mp4,To provide instruction or guidance.
+362,Teacher,School,0,teacher.mp4,A person who educates students.
+363,Technology,School,0,technology.mp4,The use of scientific knowledge for practical purposes.
+364,Ten,School,0,ten.mp4,The number following nine.
+365,Test,School,0,test.mp4,A procedure to measure someone's knowledge or skills.
+366,True/Truth,School,0,true_truth.mp4,Something that is factual or accurate.
+367,Understand,School,0,understand.mp4,To grasp the meaning or significance of something.
+368,Values,School,0,values.mp4,Beliefs or principles that guide behavior.
+369,Write,School,0,write.mp4,"To form letters, words, or symbols on a surface, typically paper."
+370,Wrong,School,0,wrong.mp4,Not correct; mistaken.
