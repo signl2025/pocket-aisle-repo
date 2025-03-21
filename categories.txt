@@ -1,0 +1,13 @@
+{
+  "Alphabet": "abc",
+  "School": "school",
+  "Food": "fastfood",
+  "Emotions": "mood",
+  "Animals": "pets",
+  "Date and Time": "calendar_month",
+  "Greetings": "emoji_people",
+  "Family": "family_restroom",
+  "Numbers": "123",
+  "Colors": "palette",
+  "Places": "tour",
+}
