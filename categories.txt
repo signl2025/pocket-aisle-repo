@@ -5,9 +5,9 @@
   "Emotions": "mood",
   "Animals": "pets",
   "Date and Time": "calendar_month",
-  "Greetings": "emoji_people",
+  "Greetings": "waving_hand",
   "Family": "family_restroom",
   "Numbers": "123",
   "Colors": "palette",
-  "Places": "tour",
+  "Places": "tour"
 }
