@@ -1,4 +1,4 @@
-#id,word,category,refId,vFileName,definition
+id,word,category,refId,vFileName,definition
 1,A,Alphabet,0,a.mp4,The 1st letter of the English alphabet.
 2,B,Alphabet,0,b.mp4,The 2nd letter of the English alphabet.
 3,C,Alphabet,0,c.mp4,The 3rd letter of the English alphabet.
