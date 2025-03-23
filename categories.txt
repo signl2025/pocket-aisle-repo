@@ -9,5 +9,6 @@
   "Family": "family_restroom",
   "Numbers": "123",
   "Colors": "palette",
-  "Places": "tour"
+  "Places": "tour",
+  "Bookmark": "bookmark"
 }
