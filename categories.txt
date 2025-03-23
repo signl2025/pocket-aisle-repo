@@ -10,5 +10,5 @@
   "Numbers": "123",
   "Colors": "palette",
   "Places": "tour",
-  "Bookmark": "bookmark"
+  "Bookmarks": "bookmark"
 }
